@@ -1,0 +1,125 @@
+/* --- 开始：现代简洁的页面入场动画 --- */
+
+/* 1. 定义一个微妙的“上浮淡入”关键帧动画 */
+@keyframes modernFadeInUp {
+    from {
+        opacity: 0; /* 开始时透明 */
+        /* 仅仅向下偏移 30像素，而不是大幅度的推开 */
+        transform: translate3d(0, 30px, 0);
+    }
+    to {
+        opacity: 1; /* 结束时不透明 */
+        /* 回到正常位置 */
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+/* 2. 将这个动画应用到主页面包裹器上 */
+.page-wraper {
+    /* 告诉浏览器使用我们刚才定义的动画名字 */
+    animation-name: modernFadeInUp !important;
+    
+    /* 动画持续时间：0.8秒，这是一个比较柔和、不急不躁的速度 */
+    animation-duration: 0.8s !important;
+    
+    /* 动画速度曲线：以慢速开始，中间加速，慢速结束，感觉更顺滑自然 */
+    animation-timing-function: ease-in-out !important;
+    
+    /* 确保元素在动画开始前（等待加载时）保持第一帧的状态（即透明且稍微靠下）*/
+    animation-fill-mode: both !important;
+    
+    /* 稍微延迟 0.3秒再开始动画，给前面的加载遮罩层一个消失的时间，
+       避免动画在遮罩层后面播放完了 */
+    animation-delay: 0.3s !important;
+}
+
+/* --- 结束：现代简洁的页面入场动画 --- */
+
+/* --- 开始：强制修复六模块对齐问题 (顶端对齐版) --- */
+
+/* 1. 核心关键：强制覆盖 JS Masonry 脚本的定位行为 (保持不变) */
+.portfolio-wrap .post.masonry-item {
+    position: relative !important; /* 禁用脚本的绝对定位 */
+    top: auto !important;         /* 清除脚本设置的顶部距离 */
+    left: auto !important;        /* 清除脚本设置的左侧距离 */
+    height: auto !important;      /* 清除脚本计算的高度 */
+    margin-bottom: 30px;          /* 人工添加底部间距 */
+    display: flex !important;     /* 确保它是一个弹性容器 */
+}
+
+/* 2. 确保包裹这些模块的行是一个弹性容器 (保持不变) */
+.portfolio-wrap.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* --- 重要修改在这里 --- */
+
+/* 3. 设置白色卡片 (.blog-post) 的内部布局 */
+.portfolio-wrap .post .blog-post {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between;  <-- 删除这一行，或者改成下面的 flex-start */
+    justify-content: flex-start;     /* <-- 新增：让所有内容紧贴顶部排列 */
+    height: 100%;
+    /* 确保背景色和阴影能撑满高度 */
+}
+
+/* 4. 让文字描述区域保持自然高度 */
+/* 我们删除了之前这里的 flex-grow: 1，这样文字较少时不会被强制拉伸 */
+.portfolio-wrap .post .wt-post-text {
+    flex-grow: 0; 
+    /* 增加一点底部的内边距，让文字不要紧贴卡片边缘，视觉更舒服 */
+    padding-bottom: 20px; 
+}
+
+/* --- 结束：强制修复六模块对齐问题 (顶端对齐版) --- */
+
+/* --- 开始：方案一 (现代大气数字风格) --- */
+
+/* 1. 重新设计包裹数据的行容器 */
+.portfolio-wrap .blog-post .row.text-center {
+    margin-top: 20px;       /* 顶部增加间距 */
+    margin-bottom: 20px;    /* 底部增加间距 */
+    padding: 15px 0;        /* 内部上下增加空间 */
+    border-top: 1px solid #eee;    /* 添加顶部细灰线 */
+    border-bottom: 1px solid #eee; /* 添加底部细灰线 */
+    background-color: transparent; /* 确保背景透明 */
+}
+
+/* 2. 重新设计标签 (PROJECTS / COUNTRIES) */
+/* 使用 !important 覆盖掉 HTML 中的内联颜色样式 */
+.portfolio-wrap .blog-post .row.text-center span.large.text {
+    display: block;
+    font-size: 12px;        /* 字体变小 */
+    font-weight: 600;       /* 半粗体 */
+    letter-spacing: 1px;    /* 字母间距变宽 */
+    text-transform: uppercase; /* 强制全大写 */
+    color: #999 !important; /* 改为灰色，弱化视觉 */
+    margin-bottom: 5px;
+}
+/* 去掉标签的斜体效果 */
+.portfolio-wrap .blog-post .row.text-center span.large.text i {
+    font-style: normal;
+}
+
+/* 3. 重新设计数字 (101 / 22) */
+.portfolio-wrap .blog-post .row.text-center .h4 {
+    font-size: 36px !important; /* 字体变得非常大 */
+    font-weight: 800 !important; /* 特粗体，更有冲击力 */
+    margin: 0;                  /* 去掉默认边距 */
+    line-height: 1;             /*紧凑的行高*/
+    color: #04466c !important;  /* 确保使用品牌深蓝色 */
+}
+/* 去掉数字的斜体效果 */
+.portfolio-wrap .blog-post .row.text-center .h4 i {
+    font-style: normal;
+}
+
+/* 4. 弱化中间的分割线 */
+.border-right {
+    border-right: 1px solid #eee !important; /* 改为浅灰色细线 */
+}
+
+/* --- 结束：方案一 --- */

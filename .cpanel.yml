@@ -1,0 +1,9 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/CPANEL_USER/public_html/mmecglobal.com
+    - /bin/mkdir -p $DEPLOYPATH
+    - /bin/cp -R . $DEPLOYPATH/
+    - /bin/rm -f $DEPLOYPATH/.cpanel.yml $DEPLOYPATH/.gitignore
+    - /bin/chmod -R 644 $DEPLOYPATH
+    - /bin/find $DEPLOYPATH -type d -exec chmod 755 {} \;
