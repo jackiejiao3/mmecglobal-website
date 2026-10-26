@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/bash /home1/mdhiglob/repositories/mmecglobal-website/deployment/live-manifest.sh
+    - /bin/bash /home1/mdhiglob/repositories/mmecglobal-website/deployment/stage.sh
