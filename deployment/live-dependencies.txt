@@ -1,0 +1,7 @@
+docs/asmep.webp
+docs/asmes.webp
+docs/asmeu.webp
+images/m-cert07.webp
+images/m-cert08.webp
+images/m-cert09.webp
+js/gal.js
