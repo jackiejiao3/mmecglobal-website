@@ -706,9 +706,27 @@ All JavaScript fuctions Start
 				'role': success ? 'status' : 'alert'
 			}).text(message).insertBefore(form);
 		}
+		var fields = form.serializeArray();
+		var messageControls = form.find('[name="message"]');
+		if (messageControls.length > 1) {
+			// The project form has three message controls, but PHP reads only one.
+			fields = jQuery.grep(fields, function(field) {
+				return field.name !== 'message';
+			});
+			var labels = ['Project Name', 'Project Type', 'Project Industry'];
+			var details = [];
+			messageControls.each(function(index) {
+				var control = jQuery(this);
+				var value = control.is('select') ?
+					control.find('option:selected').text() : control.val();
+				details.push(labels[index] + ': ' + jQuery.trim(value));
+			});
+			fields.push({name: 'message', value: details.join('\n')});
+		}
+		fields.push({name: 'action', value: 'contactform'});
 		jQuery.ajax({
 			url: form.attr('action') || 'form-handler.php',
-			data: form.serialize() + "&action=contactform",
+			data: jQuery.param(fields),
 			type: 'POST',
 			dataType: 'JSON',
 			beforeSend: function() {
