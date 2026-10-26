@@ -15,6 +15,9 @@ test "$LIVE" != / && test "$SOURCE" != "$LIVE" && test "$PRIVATE" != "$LIVE"
 case "$PRIVATE/" in "$LIVE/"*|"$SOURCE/"*) echo 'Unsafe private path' >&2; exit 1;; esac
 LIST="$PRIVATE/MMEC-private-cleanup-allowlist.tsv"
 test -s "$LIST" || { echo "Private allowlist missing: $LIST" >&2; exit 1; }
+# Preserve assets referenced by any page currently present under the live site,
+# including pages that are not tracked in the repository.
+mapfile -d '' -t PAGE_FILES < <(find "$LIVE" -type f \( -iname '*.html' -o -iname '*.htm' -o -iname '*.php' \) -print0)
 STAMP=$(date -u +%Y%m%dT%H%M%SZ)-$$
 REPORT="$PRIVATE/cleanup-$MODE-$STAMP.txt"
 QUARANTINE="$PRIVATE/quarantine-$STAMP"
@@ -34,6 +37,10 @@ while IFS=$'\t' read -r REL SIZE SHA || test -n "$REL"; do
   FILE="$LIVE/$REL"
   if test -e "$SOURCE/$REL" || test -L "$SOURCE/$REL" || test ! -f "$FILE" || test -L "$FILE"; then
     printf 'SKIP source exists or live file missing/link: %s\n' "$REL" >> "$REPORT"
+    SKIP=$((SKIP + 1)); continue
+  fi
+  if ((${#PAGE_FILES[@]})) && grep -Fq -- "$REL" "${PAGE_FILES[@]}"; then
+    printf 'SKIP referenced by live page: %s\n' "$REL" >> "$REPORT"
     SKIP=$((SKIP + 1)); continue
   fi
   PARENT=$(dirname "$FILE")
