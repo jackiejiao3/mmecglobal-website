@@ -1,4 +1,4 @@
 ---
 deployment:
   tasks:
-    - /bin/bash /home1/mdhiglob/repositories/mmecglobal-website/deployment/quarantine-old-assets.sh plan
+    - /bin/bash /home1/mdhiglob/repositories/mmecglobal-website/deployment/quarantine-old-assets.sh quarantine
