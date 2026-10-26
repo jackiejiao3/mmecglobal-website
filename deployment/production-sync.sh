@@ -31,6 +31,7 @@ FILTER=(
   --exclude='.htaccess' --exclude='.well-known/'
   --exclude='.user.ini' --exclude='php.ini'
   --exclude='.env' --exclude='.env.*' --exclude='.htpasswd'
+  --include='/form-handler-v2.php'
   --exclude='*.php' --exclude='logs/' --exclude='*.log'
   --exclude='.vscode/' --exclude='.idea/' --exclude='__MACOSX/'
   --exclude='.DS_Store' --exclude='._*' --exclude='Thumbs.db'
