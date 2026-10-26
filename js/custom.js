@@ -693,23 +693,43 @@ All JavaScript fuctions Start
 	jQuery(document).on('submit', 'form.cons-contact-form', function(e){
 		e.preventDefault();
 		var form = jQuery(this);
-		/* sending message */
+		if (form.data('contactSubmitting')) {
+			return false;
+		}
+		form.data('contactSubmitting', true);
+		// Replace only this form's previous result, including notices from older versions.
+		form.prevAll('.alert').remove();
+		var submitButtons = form.find('button[type="submit"], input[type="submit"]');
+		function showFeedback(success, message) {
+			jQuery('<div>', {
+				'class': 'alert contact-form-feedback ' + (success ? 'alert-success' : 'alert-danger'),
+				'role': success ? 'status' : 'alert'
+			}).text(message).insertBefore(form);
+		}
 		jQuery.ajax({
-			url: 'form-handler.php',
+			url: form.attr('action') || 'form-handler.php',
 			data: form.serialize() + "&action=contactform",
 			type: 'POST',
 			dataType: 'JSON',
 			beforeSend: function() {
+				submitButtons.prop('disabled', true);
 				jQuery('.loading-area').show();
 			},
-
-			success:function(data){
-				jQuery('.loading-area').hide();
-				if(data['success']){
-				jQuery("<div class='alert alert-success'>"+data['message']+"</div>").insertBefore('form.cons-contact-form');
-				}else{
-				jQuery("<div class='alert alert-danger'>"+data['message']+"</div>").insertBefore('form.cons-contact-form');	
+			success: function(data) {
+				var sent = !!(data && data.success);
+				showFeedback(sent, data && data.message ? data.message :
+					(sent ? 'Message Sent Successfully!' : 'Unable to send your message. Please try again.'));
+				if (sent) {
+					form[0].reset();
 				}
+			},
+			error: function() {
+				showFeedback(false, 'Unable to send your message. Please try again.');
+			},
+			complete: function() {
+				jQuery('.loading-area').hide();
+				submitButtons.prop('disabled', false);
+				form.data('contactSubmitting', false);
 			}
 		});
 		return false;
