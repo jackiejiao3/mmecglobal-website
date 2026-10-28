@@ -1,0 +1,4725 @@
+{
+  "scope": "All root HTML pages; unique local img src and inline backgrounds; CSS URLs checked separately. Not a browser waterfall or an estimate of first-viewport traffic.",
+  "pages": [
+    {
+      "page": "bld-gal.html",
+      "html_bytes": 17580,
+      "image_tags": 19,
+      "lazy_images": 0,
+      "images_missing_dimensions": 19,
+      "image_and_inline_background_bytes": 3367457,
+      "image_assets": [
+        {
+          "path": "images/bld-01.jpg",
+          "bytes": 714363
+        },
+        {
+          "path": "images/logo.png",
+          "bytes": 29816
+        },
+        {
+          "path": "images/projects/a-ggbn1.webp",
+          "bytes": 112894
+        },
+        {
+          "path": "images/projects/a-ggbn2.webp",
+          "bytes": 134276
+        },
+        {
+          "path": "images/projects/a-ggbn3.webp",
+          "bytes": 100896
+        },
+        {
+          "path": "images/projects/b-amcs1.webp",
+          "bytes": 161224
+        },
+        {
+          "path": "images/projects/b-amcs2.webp",
+          "bytes": 194870
+        },
+        {
+          "path": "images/projects/b-amcs3.webp",
+          "bytes": 140514
+        },
+        {
+          "path": "images/projects/b-amcs4.webp",
+          "bytes": 156022
+        },
+        {
+          "path": "images/projects/b-amdr1.webp",
+          "bytes": 111148
+        },
+        {
+          "path": "images/projects/b-amdr2.webp",
+          "bytes": 218086
+        },
+        {
+          "path": "images/projects/b-amdr3.webp",
+          "bytes": 182470
+        },
+        {
+          "path": "images/projects/b-amdr4.webp",
+          "bytes": 137216
+        },
+        {
+          "path": "images/projects/m-cskf1.webp",
+          "bytes": 159320
+        },
+        {
+          "path": "images/projects/m-ctrs1.webp",
+          "bytes": 170648
+        },
+        {
+          "path": "images/projects/m-ctrs2.webp",
+          "bytes": 142788
+        },
+        {
+          "path": "images/projects/m-fhbm1.webp",
+          "bytes": 174314
+        },
+        {
+          "path": "images/projects/m-fhbm2.webp",
+          "bytes": 197278
+        },
+        {
+          "path": "images/projects/m-fhbm3.webp",
+          "bytes": 129314
+        }
+      ],
+      "external_scripts": 1,
+      "script_bytes": 29623,
+      "stylesheets": 6,
+      "css_bytes": 860302,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "careers.html",
+      "html_bytes": 36991,
+      "image_tags": 1,
+      "lazy_images": 0,
+      "images_missing_dimensions": 1,
+      "image_and_inline_background_bytes": 342467,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/careers-banner.jpg",
+          "bytes": 284990
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 759732,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "chm-gal.html",
+      "html_bytes": 17898,
+      "image_tags": 21,
+      "lazy_images": 0,
+      "images_missing_dimensions": 21,
+      "image_and_inline_background_bytes": 2736057,
+      "image_assets": [
+        {
+          "path": "images/logo.png",
+          "bytes": 29816
+        },
+        {
+          "path": "images/page-title.jpg",
+          "bytes": 146217
+        },
+        {
+          "path": "images/projects/p-agep1.webp",
+          "bytes": 154244
+        },
+        {
+          "path": "images/projects/p-agep2.webp",
+          "bytes": 134992
+        },
+        {
+          "path": "images/projects/p-agep3.webp",
+          "bytes": 115296
+        },
+        {
+          "path": "images/projects/p-agep4.webp",
+          "bytes": 78818
+        },
+        {
+          "path": "images/projects/p-bgil1.webp",
+          "bytes": 120404
+        },
+        {
+          "path": "images/projects/p-bgil2.webp",
+          "bytes": 112806
+        },
+        {
+          "path": "images/projects/p-bgil3.webp",
+          "bytes": 188338
+        },
+        {
+          "path": "images/projects/p-bgil4.webp",
+          "bytes": 80658
+        },
+        {
+          "path": "images/projects/p-biga1.webp",
+          "bytes": 179660
+        },
+        {
+          "path": "images/projects/p-biga2.webp",
+          "bytes": 146674
+        },
+        {
+          "path": "images/projects/p-biga3.webp",
+          "bytes": 171768
+        },
+        {
+          "path": "images/projects/p-buze1.webp",
+          "bytes": 186566
+        },
+        {
+          "path": "images/projects/p-buze2.webp",
+          "bytes": 118402
+        },
+        {
+          "path": "images/projects/p-buze3.webp",
+          "bytes": 139612
+        },
+        {
+          "path": "images/projects/p-cfbp1.webp",
+          "bytes": 136622
+        },
+        {
+          "path": "images/projects/p-smsl1.webp",
+          "bytes": 120902
+        },
+        {
+          "path": "images/projects/p-smsl2.webp",
+          "bytes": 134552
+        },
+        {
+          "path": "images/projects/p-smsl3.webp",
+          "bytes": 125008
+        },
+        {
+          "path": "images/projects/p-smsl4.webp",
+          "bytes": 114702
+        }
+      ],
+      "external_scripts": 1,
+      "script_bytes": 29623,
+      "stylesheets": 6,
+      "css_bytes": 860302,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "contact.html",
+      "html_bytes": 24719,
+      "image_tags": 1,
+      "lazy_images": 0,
+      "images_missing_dimensions": 1,
+      "image_and_inline_background_bytes": 224236,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/slide3.jpg",
+          "bytes": 166759
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 759732,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "gallery-grid-2.html",
+      "html_bytes": 57280,
+      "image_tags": 14,
+      "lazy_images": 0,
+      "images_missing_dimensions": 12,
+      "image_and_inline_background_bytes": 73753,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/gallery-banner.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/latest-projects/pic1.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic2.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic7.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic8.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        }
+      ],
+      "external_scripts": 15,
+      "script_bytes": 387549,
+      "stylesheets": 13,
+      "css_bytes": 551409,
+      "identical_stylesheets": [],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "gallery.html",
+      "html_bytes": 223447,
+      "image_tags": 205,
+      "lazy_images": 196,
+      "images_missing_dimensions": 0,
+      "image_and_inline_background_bytes": 4046833,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmae01-1-png-b74882151f00.webp",
+          "bytes": 34354
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmae02-1-png-15a1fe136b37.webp",
+          "bytes": 40442
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmae03-1-png-23f5c803ec8d.webp",
+          "bytes": 40980
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmae04-1-png-ab9873e755c3.webp",
+          "bytes": 38436
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmae05-1-png-6efdad79622a.webp",
+          "bytes": 41986
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmne-1-png-1ab44d4085a4.webp",
+          "bytes": 64834
+        },
+        {
+          "path": "images/gallery-optimized/1officeyard-mmso-1-png-498172739adf.webp",
+          "bytes": 63710
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-1north-1-jpg-1be77765fbb8.webp",
+          "bytes": 46240
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-1south-1-png-6f54964ee5bc.webp",
+          "bytes": 49262
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-2north-1-png-ee3130f2ee87.webp",
+          "bytes": 51216
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-2south-1-png-200574ad7597.webp",
+          "bytes": 50950
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-3north-1-png-e962eead92ac.webp",
+          "bytes": 46260
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-3south-1-png-0f84d834efc4.webp",
+          "bytes": 48330
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-4north-1-png-f8dc1c8890b9.webp",
+          "bytes": 55178
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-4south-1-png-e1464d5ad102.webp",
+          "bytes": 47920
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-5north-1-png-51e011bf360f.webp",
+          "bytes": 55420
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-5south-1-png-526fd4bbadec.webp",
+          "bytes": 52114
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-6north-1-png-037de43f7b95.webp",
+          "bytes": 63104
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-6south-1-png-ab06c56c061c.webp",
+          "bytes": 52976
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-7north-1-png-1bad0c6cf5da.webp",
+          "bytes": 56262
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-8north-1-png-9aa6af5f8205.webp",
+          "bytes": 16820
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-csp01-1-png-992e16761be6.webp",
+          "bytes": 58332
+        },
+        {
+          "path": "images/gallery-optimized/2workshop-ssp01-1-png-1a4166274711.webp",
+          "bytes": 53912
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep1-1-png-444e3bf08d34.webp",
+          "bytes": 42748
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep2-1-png-9548db917b58.webp",
+          "bytes": 33800
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep3-1-png-69b4ca7211e7.webp",
+          "bytes": 42312
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep4-1-png-5ef6544dd544.webp",
+          "bytes": 25326
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep5-1-png-569132787048.webp",
+          "bytes": 34444
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep6-1-png-c69f1fc9d36a.webp",
+          "bytes": 20884
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep8-1-png-c2940aad8705.webp",
+          "bytes": 30648
+        },
+        {
+          "path": "images/gallery-optimized/3port-ghep9-1-png-6bd5958ab156.webp",
+          "bytes": 24516
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng01-1-png-d5e408e19c7c.webp",
+          "bytes": 28658
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng02-1-png-266d2023c29d.webp",
+          "bytes": 28650
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng03-1-png-609750d10761.webp",
+          "bytes": 21686
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng04-1-png-b3b898abf8a4.webp",
+          "bytes": 29544
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng05-1-png-f637a3c11843.webp",
+          "bytes": 34588
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng06-1-png-ea5717375b89.webp",
+          "bytes": 18776
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng07-1-png-60fba31f158a.webp",
+          "bytes": 18544
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng08-1-png-e60260fbc5a9.webp",
+          "bytes": 27464
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng09-1-png-4043efcc3b08.webp",
+          "bytes": 20278
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng10-1-png-f4653544a618.webp",
+          "bytes": 24976
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng11-1-png-207c60319502.webp",
+          "bytes": 22352
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng13-1-png-1e819eb7f1ca.webp",
+          "bytes": 55044
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng14-1-png-f82b5116ba8c.webp",
+          "bytes": 38334
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng15-1-png-eb490feecae1.webp",
+          "bytes": 15772
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng16-1-png-7032df8d62b1.webp",
+          "bytes": 32458
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng17-1-png-4b47fe8aa813.webp",
+          "bytes": 9780
+        },
+        {
+          "path": "images/gallery-optimized/4engineering-eng18-1-png-3b37da31cfef.webp",
+          "bytes": 17936
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat1-1-png-a7561f3c23ff.webp",
+          "bytes": 32962
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat10-1-png-a97ca88f95d0.webp",
+          "bytes": 21130
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat2-1-png-10dfd4aee8d0.webp",
+          "bytes": 42680
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat3-1-png-5d07ce553edb.webp",
+          "bytes": 48270
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat4-1-png-dac082485e81.webp",
+          "bytes": 60734
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat5-1-png-96f3ad8a9c14.webp",
+          "bytes": 46372
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat6-1-png-40dca5ecbd77.webp",
+          "bytes": 30292
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat7-1-png-988028395f7d.webp",
+          "bytes": 35492
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat8-1-png-26435d5c217c.webp",
+          "bytes": 35048
+        },
+        {
+          "path": "images/gallery-optimized/5material-mat9-1-png-8ced8f309f05.webp",
+          "bytes": 62592
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr10-1-png-4b7594659d2b.webp",
+          "bytes": 32288
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr11-1-png-52f922b6d0c2.webp",
+          "bytes": 23496
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr12-1-png-9c9943f0b395.webp",
+          "bytes": 20914
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr13-1-png-3b156dceeeaf.webp",
+          "bytes": 27964
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr14-1-png-83d43404b5c3.webp",
+          "bytes": 46534
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr15-1-png-4357a941463a.webp",
+          "bytes": 34978
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr2-1-png-580ae551a2b6.webp",
+          "bytes": 28596
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr3-1-png-24e9a13fa429.webp",
+          "bytes": 17648
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr4-1-png-59bc203c0cb3.webp",
+          "bytes": 41074
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr5-1-png-b2011c126163.webp",
+          "bytes": 28136
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr6-1-png-ad73a65577f7.webp",
+          "bytes": 51286
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr7-1-png-7513fb19f521.webp",
+          "bytes": 42216
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr8-1-png-07cb817beec4.webp",
+          "bytes": 20906
+        },
+        {
+          "path": "images/gallery-optimized/6fabrication-fabr9-1-png-0c393205c09c.webp",
+          "bytes": 39336
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep1-1-png-aeafc9eff34b.webp",
+          "bytes": 40598
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep2-1-png-197e1eedca01.webp",
+          "bytes": 40114
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep3-1-png-c59e1dd3b557.webp",
+          "bytes": 47102
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep4-1-png-4a9c8f8d9486.webp",
+          "bytes": 42190
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep5-1-png-d8594c9fa085.webp",
+          "bytes": 28262
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep6-1-png-5edf802dad5b.webp",
+          "bytes": 46510
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep7-1-png-6d41e5fa9c95.webp",
+          "bytes": 34522
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep8-1-png-77972d055d80.webp",
+          "bytes": 51608
+        },
+        {
+          "path": "images/gallery-optimized/7beam-profile-bep9-1-png-a3ba23fb2b43.webp",
+          "bytes": 55756
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus1-1-png-37653b7d3464.webp",
+          "bytes": 46900
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus10-1-png-5010b03206ef.webp",
+          "bytes": 32072
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus11-1-png-7a1bd5b217dc.webp",
+          "bytes": 41940
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus12-1-png-6f21fe1d626b.webp",
+          "bytes": 29676
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus2-1-png-98a458c6ac05.webp",
+          "bytes": 33774
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus3-1-png-0b0094cf938e.webp",
+          "bytes": 25654
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus4-1-png-a22698c2291b.webp",
+          "bytes": 42570
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus4a-1-png-8d20046dffd0.webp",
+          "bytes": 49432
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus5-1-png-1831b8f5420e.webp",
+          "bytes": 30976
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus6-1-png-eb642b32ec09.webp",
+          "bytes": 30444
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus7-1-png-514277b418fb.webp",
+          "bytes": 36918
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus8-1-png-920568669b07.webp",
+          "bytes": 40656
+        },
+        {
+          "path": "images/gallery-optimized/8built-up-bus9-1-png-d5fb04e080b6.webp",
+          "bytes": 30774
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu1-1-png-ffce47ee9c27.webp",
+          "bytes": 26808
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu2-1-png-a2779bd098d3.webp",
+          "bytes": 36458
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu3-1-png-b0e39487a88c.webp",
+          "bytes": 39274
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu4-1-png-9baf067ae725.webp",
+          "bytes": 44628
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu5-1-png-b17aa8be9129.webp",
+          "bytes": 34324
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu6-1-png-f27ba2dd6fd1.webp",
+          "bytes": 33404
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu7-1-png-d5cc0a2a8ec7.webp",
+          "bytes": 23530
+        },
+        {
+          "path": "images/gallery-optimized/9fitting-fitu8-1-png-7f531aeb6c7b.webp",
+          "bytes": 33140
+        },
+        {
+          "path": "images/gallery-optimized/images-gallery-banner-png-c4e534858250.webp",
+          "bytes": 159842
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        }
+      ],
+      "external_scripts": 13,
+      "script_bytes": 372325,
+      "stylesheets": 10,
+      "css_bytes": 555578,
+      "identical_stylesheets": [],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "hrs-gal.html",
+      "html_bytes": 17742,
+      "image_tags": 19,
+      "lazy_images": 0,
+      "images_missing_dimensions": 19,
+      "image_and_inline_background_bytes": 3026647,
+      "image_assets": [
+        {
+          "path": "images/hrsg01.jpg",
+          "bytes": 718451
+        },
+        {
+          "path": "images/logo.png",
+          "bytes": 29816
+        },
+        {
+          "path": "images/projects/h-aarp1.webp",
+          "bytes": 120834
+        },
+        {
+          "path": "images/projects/h-aarp2.webp",
+          "bytes": 133654
+        },
+        {
+          "path": "images/projects/h-aarp3.webp",
+          "bytes": 138216
+        },
+        {
+          "path": "images/projects/h-all1.webp",
+          "bytes": 180354
+        },
+        {
+          "path": "images/projects/h-all2.webp",
+          "bytes": 114164
+        },
+        {
+          "path": "images/projects/h-all3.webp",
+          "bytes": 137572
+        },
+        {
+          "path": "images/projects/h-alor1.webp",
+          "bytes": 133534
+        },
+        {
+          "path": "images/projects/h-alor2.webp",
+          "bytes": 109558
+        },
+        {
+          "path": "images/projects/h-ashu1.webp",
+          "bytes": 116250
+        },
+        {
+          "path": "images/projects/h-ashu2.webp",
+          "bytes": 136292
+        },
+        {
+          "path": "images/projects/h-ashu3.webp",
+          "bytes": 84088
+        },
+        {
+          "path": "images/projects/h-ashu4.webp",
+          "bytes": 189078
+        },
+        {
+          "path": "images/projects/h-emal1.webp",
+          "bytes": 185676
+        },
+        {
+          "path": "images/projects/h-jazi1.webp",
+          "bytes": 112228
+        },
+        {
+          "path": "images/projects/h-jazi2.webp",
+          "bytes": 163064
+        },
+        {
+          "path": "images/projects/h-jazi3.webp",
+          "bytes": 115404
+        },
+        {
+          "path": "images/projects/h-jazi4.webp",
+          "bytes": 108414
+        }
+      ],
+      "external_scripts": 1,
+      "script_bytes": 29623,
+      "stylesheets": 6,
+      "css_bytes": 860302,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "index-3.html",
+      "html_bytes": 122417,
+      "image_tags": 32,
+      "lazy_images": 0,
+      "images_missing_dimensions": 30,
+      "image_and_inline_background_bytes": 945524,
+      "image_assets": [
+        {
+          "path": "images/1.jpg",
+          "bytes": 101206
+        },
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/background/bg2.jpg",
+          "bytes": 38461
+        },
+        {
+          "path": "images/background/bg5.jpg",
+          "bytes": 38461
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/client-logo/logo1.png",
+          "bytes": 10948
+        },
+        {
+          "path": "images/client-logo/logo2.png",
+          "bytes": 10681
+        },
+        {
+          "path": "images/client-logo/logo3.png",
+          "bytes": 23622
+        },
+        {
+          "path": "images/client-logo/logo4.png",
+          "bytes": 13972
+        },
+        {
+          "path": "images/client-logo/logo5.png",
+          "bytes": 12205
+        },
+        {
+          "path": "images/client-logo/logo6.png",
+          "bytes": 13149
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/gallery/pic1.jpg",
+          "bytes": 8054
+        },
+        {
+          "path": "images/gallery/pic2.jpg",
+          "bytes": 8054
+        },
+        {
+          "path": "images/gallery/pic3.jpg",
+          "bytes": 8054
+        },
+        {
+          "path": "images/gallery/pic4.jpg",
+          "bytes": 23144
+        },
+        {
+          "path": "images/latest-projects/pic1.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic2.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic7.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic8.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/m-bus08.jpg",
+          "bytes": 562638
+        },
+        {
+          "path": "images/our-team/pic1.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic2.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic3.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic4.jpg",
+          "bytes": 2509
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 760440,
+      "stylesheets": 15,
+      "css_bytes": 641045,
+      "identical_stylesheets": [],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "index-4.html",
+      "html_bytes": 149251,
+      "image_tags": 55,
+      "lazy_images": 0,
+      "images_missing_dimensions": 50,
+      "image_and_inline_background_bytes": 677618,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/background/bg-8.jpg",
+          "bytes": 59024
+        },
+        {
+          "path": "images/background/bg5.jpg",
+          "bytes": 38461
+        },
+        {
+          "path": "images/background/bg7.png",
+          "bytes": 71173
+        },
+        {
+          "path": "images/background/why-choose-pic-2.png",
+          "bytes": 180440
+        },
+        {
+          "path": "images/blog/grid/pic1.jpg",
+          "bytes": 3125
+        },
+        {
+          "path": "images/blog/grid/pic2.jpg",
+          "bytes": 3125
+        },
+        {
+          "path": "images/blog/grid/pic5.jpg",
+          "bytes": 3125
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/icon/brickwall.png",
+          "bytes": 14121
+        },
+        {
+          "path": "images/icon/compass.png",
+          "bytes": 28265
+        },
+        {
+          "path": "images/icon/engineer.png",
+          "bytes": 24529
+        },
+        {
+          "path": "images/icon/helmet.png",
+          "bytes": 20055
+        },
+        {
+          "path": "images/icon/home.png",
+          "bytes": 9554
+        },
+        {
+          "path": "images/icon/jackhammer.png",
+          "bytes": 13568
+        },
+        {
+          "path": "images/icon/light-bulb.png",
+          "bytes": 19575
+        },
+        {
+          "path": "images/icon/no-entry.png",
+          "bytes": 14990
+        },
+        {
+          "path": "images/icon/paint-brush.png",
+          "bytes": 23245
+        },
+        {
+          "path": "images/icon/window.png",
+          "bytes": 19881
+        },
+        {
+          "path": "images/latest-projects/pic1.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic2.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/latest-projects/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        },
+        {
+          "path": "images/main-slider/slider1/slide1.jpg",
+          "bytes": 8424
+        },
+        {
+          "path": "images/main-slider/slider1/slide2.jpg",
+          "bytes": 8424
+        },
+        {
+          "path": "images/main-slider/slider1/slide3.jpg",
+          "bytes": 8424
+        },
+        {
+          "path": "images/our-team4/pic1.jpg",
+          "bytes": 9961
+        },
+        {
+          "path": "images/our-team4/pic2.jpg",
+          "bytes": 9961
+        },
+        {
+          "path": "images/our-team4/pic4.jpg",
+          "bytes": 9961
+        },
+        {
+          "path": "images/our-work/pic1.jpg",
+          "bytes": 4636
+        },
+        {
+          "path": "images/our-work/pic2.jpg",
+          "bytes": 4636
+        },
+        {
+          "path": "images/our-work/pic3.jpg",
+          "bytes": 4636
+        },
+        {
+          "path": "images/testimonials/pic1.jpg",
+          "bytes": 2307
+        },
+        {
+          "path": "images/testimonials/pic2.jpg",
+          "bytes": 2307
+        },
+        {
+          "path": "images/testimonials/pic3.jpg",
+          "bytes": 2307
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 760247,
+      "stylesheets": 15,
+      "css_bytes": 641045,
+      "identical_stylesheets": [],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "index.html",
+      "html_bytes": 53452,
+      "image_tags": 8,
+      "lazy_images": 6,
+      "images_missing_dimensions": 0,
+      "image_and_inline_background_bytes": 895167,
+      "image_assets": [
+        {
+          "path": "images/about-pic.webp",
+          "bytes": 21332
+        },
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/home-pic02.webp",
+          "bytes": 117814
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/m-mec1.webp",
+          "bytes": 89512
+        },
+        {
+          "path": "images/m-mec2.webp",
+          "bytes": 103438
+        },
+        {
+          "path": "images/m-mec3.webp",
+          "bytes": 118296
+        },
+        {
+          "path": "images/m-mec4.webp",
+          "bytes": 77264
+        },
+        {
+          "path": "images/mg-home-01.jpg",
+          "bytes": 310034
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 760440,
+      "stylesheets": 12,
+      "css_bytes": 635261,
+      "identical_stylesheets": [],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "media.html",
+      "html_bytes": 19210,
+      "image_tags": 1,
+      "lazy_images": 0,
+      "images_missing_dimensions": 1,
+      "image_and_inline_background_bytes": 412208,
+      "image_assets": [
+        {
+          "path": "images/Slider 1 image.jpg",
+          "bytes": 354731
+        },
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 759732,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "mgbus.html",
+      "html_bytes": 58450,
+      "image_tags": 17,
+      "lazy_images": 0,
+      "images_missing_dimensions": 9,
+      "image_and_inline_background_bytes": 5131646,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/m-bus03.jpg",
+          "bytes": 908284
+        },
+        {
+          "path": "images/m-bus04.jpg",
+          "bytes": 648278
+        },
+        {
+          "path": "images/m-bus05.jpg",
+          "bytes": 406715
+        },
+        {
+          "path": "images/m-bus06.jpg",
+          "bytes": 605178
+        },
+        {
+          "path": "images/m-bus07.jpg",
+          "bytes": 832187
+        },
+        {
+          "path": "images/m-bus09.jpg",
+          "bytes": 38686
+        },
+        {
+          "path": "images/m-bus10.jpg",
+          "bytes": 71614
+        },
+        {
+          "path": "images/m-bus11.jpg",
+          "bytes": 67014
+        },
+        {
+          "path": "images/m-bus12.jpg",
+          "bytes": 72815
+        },
+        {
+          "path": "images/m-bus13.jpg",
+          "bytes": 89487
+        },
+        {
+          "path": "images/m-bus14.jpg",
+          "bytes": 75603
+        },
+        {
+          "path": "images/m-bus15.jpg",
+          "bytes": 94388
+        },
+        {
+          "path": "images/m-bus16.jpg",
+          "bytes": 62029
+        },
+        {
+          "path": "images/mgbus01.jpg",
+          "bytes": 575679
+        },
+        {
+          "path": "images/shang01.webp",
+          "bytes": 171858
+        },
+        {
+          "path": "images/shang02.webp",
+          "bytes": 167348
+        },
+        {
+          "path": "images/shang03.webp",
+          "bytes": 187006
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 14,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "mgcert.html",
+      "html_bytes": 74307,
+      "image_tags": 39,
+      "lazy_images": 0,
+      "images_missing_dimensions": 39,
+      "image_and_inline_background_bytes": 4091279,
+      "image_assets": [
+        {
+          "path": "docs/asmep.webp",
+          "bytes": 281902
+        },
+        {
+          "path": "docs/asmes.webp",
+          "bytes": 282368
+        },
+        {
+          "path": "docs/asmeu.webp",
+          "bytes": 290822
+        },
+        {
+          "path": "docs/cer-ais.webp",
+          "bytes": 81440
+        },
+        {
+          "path": "docs/cer-ais2.webp",
+          "bytes": 53198
+        },
+        {
+          "path": "docs/cer-csa.webp",
+          "bytes": 136868
+        },
+        {
+          "path": "docs/cer-csa2.webp",
+          "bytes": 69054
+        },
+        {
+          "path": "docs/cer-en1.webp",
+          "bytes": 259792
+        },
+        {
+          "path": "docs/cer-en1a.webp",
+          "bytes": 192764
+        },
+        {
+          "path": "docs/cer-en2.webp",
+          "bytes": 193196
+        },
+        {
+          "path": "docs/cer-is09.webp",
+          "bytes": 250162
+        },
+        {
+          "path": "docs/cer-is09a.webp",
+          "bytes": 215398
+        },
+        {
+          "path": "docs/cer-is1.webp",
+          "bytes": 177322
+        },
+        {
+          "path": "docs/cer-is14.webp",
+          "bytes": 271142
+        },
+        {
+          "path": "docs/cer-is14a.webp",
+          "bytes": 216466
+        },
+        {
+          "path": "docs/cer-is1a.webp",
+          "bytes": 180088
+        },
+        {
+          "path": "docs/cer-is45.webp",
+          "bytes": 241296
+        },
+        {
+          "path": "docs/cer-is45a.webp",
+          "bytes": 211764
+        },
+        {
+          "path": "docs/cer-lab.webp",
+          "bytes": 127002
+        },
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/m-cert01.webp",
+          "bytes": 26364
+        },
+        {
+          "path": "images/m-cert02.webp",
+          "bytes": 70126
+        },
+        {
+          "path": "images/m-cert03.webp",
+          "bytes": 40558
+        },
+        {
+          "path": "images/m-cert04.webp",
+          "bytes": 19636
+        },
+        {
+          "path": "images/m-cert05.webp",
+          "bytes": 10698
+        },
+        {
+          "path": "images/m-cert06.webp",
+          "bytes": 25248
+        },
+        {
+          "path": "images/m-cert07.webp",
+          "bytes": 36028
+        },
+        {
+          "path": "images/m-cert08.webp",
+          "bytes": 36576
+        },
+        {
+          "path": "images/m-cert09.webp",
+          "bytes": 36524
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 14,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "mgcorp.html",
+      "html_bytes": 37187,
+      "image_tags": 14,
+      "lazy_images": 0,
+      "images_missing_dimensions": 14,
+      "image_and_inline_background_bytes": 1478772,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/c-gov01.jpg",
+          "bytes": 499936
+        },
+        {
+          "path": "images/c-gov02.jpg",
+          "bytes": 118652
+        },
+        {
+          "path": "images/c-gov03.jpg",
+          "bytes": 54919
+        },
+        {
+          "path": "images/c-gov04.jpg",
+          "bytes": 102083
+        },
+        {
+          "path": "images/c-gov05.jpg",
+          "bytes": 104338
+        },
+        {
+          "path": "images/c-gov06.jpg",
+          "bytes": 47388
+        },
+        {
+          "path": "images/c-gov07.jpg",
+          "bytes": 82773
+        },
+        {
+          "path": "images/c-gov08.jpg",
+          "bytes": 91341
+        },
+        {
+          "path": "images/c-gov09.jpg",
+          "bytes": 72570
+        },
+        {
+          "path": "images/c-gov10.jpg",
+          "bytes": 50553
+        },
+        {
+          "path": "images/c-gov11.jpg",
+          "bytes": 78535
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/sigjg.png",
+          "bytes": 37044
+        },
+        {
+          "path": "images/x-gjo.jpg",
+          "bytes": 81163
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 14,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "mgman.html",
+      "html_bytes": 33307,
+      "image_tags": 19,
+      "lazy_images": 0,
+      "images_missing_dimensions": 18,
+      "image_and_inline_background_bytes": 2548646,
+      "image_assets": [
+        {
+          "path": "images/!MMEC images/adms.png",
+          "bytes": 432454
+        },
+        {
+          "path": "images/!MMEC images/bellf.png",
+          "bytes": 349012
+        },
+        {
+          "path": "images/!MMEC images/brtn.png",
+          "bytes": 435211
+        },
+        {
+          "path": "images/!MMEC images/geojo1.png",
+          "bytes": 367401
+        },
+        {
+          "path": "images/!MMEC images/geojo12.png",
+          "bytes": 36603
+        },
+        {
+          "path": "images/!MMEC images/jackie1.png",
+          "bytes": 377097
+        },
+        {
+          "path": "images/!MMEC images/jche1.png",
+          "bytes": 468444
+        },
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/Portfolio.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/our-team/pic1.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic2.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic3.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic4.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic5.jpg",
+          "bytes": 2509
+        },
+        {
+          "path": "images/our-team/pic6.jpg",
+          "bytes": 2509
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "mgsus.html",
+      "html_bytes": 60787,
+      "image_tags": 41,
+      "lazy_images": 0,
+      "images_missing_dimensions": 7,
+      "image_and_inline_background_bytes": 3387136,
+      "image_assets": [
+        {
+          "path": "images/air-01s.jpg",
+          "bytes": 87199
+        },
+        {
+          "path": "images/air-02s.jpg",
+          "bytes": 84269
+        },
+        {
+          "path": "images/air-03s.jpg",
+          "bytes": 59144
+        },
+        {
+          "path": "images/air-04s.jpg",
+          "bytes": 92382
+        },
+        {
+          "path": "images/air-05s.jpg",
+          "bytes": 82697
+        },
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/chem-01s.jpg",
+          "bytes": 55999
+        },
+        {
+          "path": "images/chem-02s.jpg",
+          "bytes": 58279
+        },
+        {
+          "path": "images/chem-03s.jpg",
+          "bytes": 68486
+        },
+        {
+          "path": "images/chem-04s.jpg",
+          "bytes": 74403
+        },
+        {
+          "path": "images/chem-05s.jpg",
+          "bytes": 75829
+        },
+        {
+          "path": "images/fire-01s.jpg",
+          "bytes": 53496
+        },
+        {
+          "path": "images/fire-02s.jpg",
+          "bytes": 60699
+        },
+        {
+          "path": "images/fire-03s.jpg",
+          "bytes": 56716
+        },
+        {
+          "path": "images/fire-04s.jpg",
+          "bytes": 39139
+        },
+        {
+          "path": "images/fire-05s.jpg",
+          "bytes": 53729
+        },
+        {
+          "path": "images/gas-01s.jpg",
+          "bytes": 62832
+        },
+        {
+          "path": "images/gas-02s.jpg",
+          "bytes": 56221
+        },
+        {
+          "path": "images/gas-03s.jpg",
+          "bytes": 70546
+        },
+        {
+          "path": "images/gas-04s.jpg",
+          "bytes": 64181
+        },
+        {
+          "path": "images/gas-05s.jpg",
+          "bytes": 66476
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/m-sus01.webp",
+          "bytes": 632874
+        },
+        {
+          "path": "images/m-sus02.jpg",
+          "bytes": 61694
+        },
+        {
+          "path": "images/m-sus03.jpg",
+          "bytes": 47557
+        },
+        {
+          "path": "images/m-sus04.jpg",
+          "bytes": 62152
+        },
+        {
+          "path": "images/m-sus05.jpg",
+          "bytes": 166818
+        },
+        {
+          "path": "images/m-sus06.jpg",
+          "bytes": 92028
+        },
+        {
+          "path": "images/m-sus07.jpg",
+          "bytes": 106124
+        },
+        {
+          "path": "images/pai-01s.jpg",
+          "bytes": 56312
+        },
+        {
+          "path": "images/pai-02s.jpg",
+          "bytes": 64787
+        },
+        {
+          "path": "images/pai-03s.jpg",
+          "bytes": 51868
+        },
+        {
+          "path": "images/pai-04s.jpg",
+          "bytes": 55726
+        },
+        {
+          "path": "images/pai-05s.jpg",
+          "bytes": 57277
+        },
+        {
+          "path": "images/pwr-01s.jpg",
+          "bytes": 53014
+        },
+        {
+          "path": "images/pwr-02s.jpg",
+          "bytes": 67246
+        },
+        {
+          "path": "images/pwr-03s.jpg",
+          "bytes": 65138
+        },
+        {
+          "path": "images/pwr-04s.jpg",
+          "bytes": 50746
+        },
+        {
+          "path": "images/pwr-05s.jpg",
+          "bytes": 60133
+        },
+        {
+          "path": "images/recy-01s.jpg",
+          "bytes": 74706
+        },
+        {
+          "path": "images/recy-03s.jpg",
+          "bytes": 49953
+        },
+        {
+          "path": "images/recy-04s.jpg",
+          "bytes": 67999
+        },
+        {
+          "path": "images/recy-05s.jpg",
+          "bytes": 62785
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 759732,
+      "stylesheets": 14,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "min-gal.html",
+      "html_bytes": 16934,
+      "image_tags": 15,
+      "lazy_images": 0,
+      "images_missing_dimensions": 15,
+      "image_and_inline_background_bytes": 2778757,
+      "image_assets": [
+        {
+          "path": "images/logo.png",
+          "bytes": 29816
+        },
+        {
+          "path": "images/min-01.jpg",
+          "bytes": 931153
+        },
+        {
+          "path": "images/projects/a-ggbn1.webp",
+          "bytes": 112894
+        },
+        {
+          "path": "images/projects/a-ggbn2.webp",
+          "bytes": 134276
+        },
+        {
+          "path": "images/projects/a-ggbn3.webp",
+          "bytes": 100896
+        },
+        {
+          "path": "images/projects/m-amru1.webp",
+          "bytes": 120018
+        },
+        {
+          "path": "images/projects/m-amru2.webp",
+          "bytes": 97772
+        },
+        {
+          "path": "images/projects/m-amru3.webp",
+          "bytes": 162402
+        },
+        {
+          "path": "images/projects/m-byer1.webp",
+          "bytes": 115868
+        },
+        {
+          "path": "images/projects/m-cskf1.webp",
+          "bytes": 159320
+        },
+        {
+          "path": "images/projects/m-ctrs1.webp",
+          "bytes": 170648
+        },
+        {
+          "path": "images/projects/m-ctrs2.webp",
+          "bytes": 142788
+        },
+        {
+          "path": "images/projects/m-fhbm1.webp",
+          "bytes": 174314
+        },
+        {
+          "path": "images/projects/m-fhbm2.webp",
+          "bytes": 197278
+        },
+        {
+          "path": "images/projects/m-fhbm3.webp",
+          "bytes": 129314
+        }
+      ],
+      "external_scripts": 1,
+      "script_bytes": 29623,
+      "stylesheets": 6,
+      "css_bytes": 860302,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "mmecprod.html",
+      "html_bytes": 37283,
+      "image_tags": 7,
+      "lazy_images": 0,
+      "images_missing_dimensions": 7,
+      "image_and_inline_background_bytes": 1925265,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/str-prod1.webp",
+          "bytes": 471348
+        },
+        {
+          "path": "images/str-prod2.jpg",
+          "bytes": 262748
+        },
+        {
+          "path": "images/str-prod3.webp",
+          "bytes": 61740
+        },
+        {
+          "path": "images/str-prod4.webp",
+          "bytes": 446342
+        },
+        {
+          "path": "images/str-prod5.webp",
+          "bytes": 353348
+        },
+        {
+          "path": "images/str-prod6.webp",
+          "bytes": 99166
+        },
+        {
+          "path": "images/str-prod7.jpg",
+          "bytes": 173096
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 764476,
+      "stylesheets": 16,
+      "css_bytes": 669438,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "modhex.html",
+      "html_bytes": 30149,
+      "image_tags": 15,
+      "lazy_images": 0,
+      "images_missing_dimensions": 15,
+      "image_and_inline_background_bytes": 4257180,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/sl-acc02.jpg",
+          "bytes": 457797
+        },
+        {
+          "path": "images/sl-acc03.jpg",
+          "bytes": 275570
+        },
+        {
+          "path": "images/sl-acc04.jpg",
+          "bytes": 219101
+        },
+        {
+          "path": "images/sl-acc05.jpg",
+          "bytes": 209372
+        },
+        {
+          "path": "images/sl-acc06.jpg",
+          "bytes": 106493
+        },
+        {
+          "path": "images/sl-acc07.jpg",
+          "bytes": 271340
+        },
+        {
+          "path": "images/sl-acc08.jpg",
+          "bytes": 184492
+        },
+        {
+          "path": "images/sl-acc09.jpg",
+          "bytes": 179103
+        },
+        {
+          "path": "images/sl-acc10.jpg",
+          "bytes": 300524
+        },
+        {
+          "path": "images/sl-acc11.jpg",
+          "bytes": 277052
+        },
+        {
+          "path": "images/sl-acc12.jpg",
+          "bytes": 277323
+        },
+        {
+          "path": "images/sl-acc13.jpg",
+          "bytes": 382083
+        },
+        {
+          "path": "images/sl-acc14.jpg",
+          "bytes": 297925
+        },
+        {
+          "path": "images/sl-acc15.jpg",
+          "bytes": 380280
+        },
+        {
+          "path": "images/sl-acc16.jpg",
+          "bytes": 381248
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "modprod.html",
+      "html_bytes": 46696,
+      "image_tags": 15,
+      "lazy_images": 0,
+      "images_missing_dimensions": 15,
+      "image_and_inline_background_bytes": 2444721,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/m-prod02.jpg",
+          "bytes": 151809
+        },
+        {
+          "path": "images/m-prod03.jpg",
+          "bytes": 261426
+        },
+        {
+          "path": "images/m-prod04.jpg",
+          "bytes": 159478
+        },
+        {
+          "path": "images/m-prod05.jpg",
+          "bytes": 187855
+        },
+        {
+          "path": "images/m-prod06.jpg",
+          "bytes": 175129
+        },
+        {
+          "path": "images/m-prod07.jpg",
+          "bytes": 212441
+        },
+        {
+          "path": "images/meng01t.webp",
+          "bytes": 36672
+        },
+        {
+          "path": "images/meng02t.webp",
+          "bytes": 52812
+        },
+        {
+          "path": "images/meng03t.webp",
+          "bytes": 64146
+        },
+        {
+          "path": "images/meng04t.webp",
+          "bytes": 60410
+        },
+        {
+          "path": "images/meng05t.webp",
+          "bytes": 95598
+        },
+        {
+          "path": "images/meng06t.webp",
+          "bytes": 63918
+        },
+        {
+          "path": "images/mod-2.webp",
+          "bytes": 151478
+        },
+        {
+          "path": "images/mod-3.webp",
+          "bytes": 105474
+        },
+        {
+          "path": "images/mod-prod1.webp",
+          "bytes": 608598
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 780555,
+      "stylesheets": 15,
+      "css_bytes": 664536,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "modstrat.html",
+      "html_bytes": 44257,
+      "image_tags": 9,
+      "lazy_images": 0,
+      "images_missing_dimensions": 9,
+      "image_and_inline_background_bytes": 1249665,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/meng01t.webp",
+          "bytes": 36672
+        },
+        {
+          "path": "images/meng02t.webp",
+          "bytes": 52812
+        },
+        {
+          "path": "images/meng03t.webp",
+          "bytes": 64146
+        },
+        {
+          "path": "images/meng04t.webp",
+          "bytes": 60410
+        },
+        {
+          "path": "images/meng05t.webp",
+          "bytes": 95598
+        },
+        {
+          "path": "images/meng06t.webp",
+          "bytes": 63918
+        },
+        {
+          "path": "images/mod-01.jpg",
+          "bytes": 561680
+        },
+        {
+          "path": "images/mod-2.webp",
+          "bytes": 151478
+        },
+        {
+          "path": "images/mod-3.webp",
+          "bytes": 105474
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 780555,
+      "stylesheets": 15,
+      "css_bytes": 664536,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-cncm.html",
+      "html_bytes": 41499,
+      "image_tags": 24,
+      "lazy_images": 0,
+      "images_missing_dimensions": 24,
+      "image_and_inline_background_bytes": 4337377,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-cncm02.jpg",
+          "bytes": 654722
+        },
+        {
+          "path": "images/n-cncm03.jpg",
+          "bytes": 154741
+        },
+        {
+          "path": "images/n-cncm04.jpg",
+          "bytes": 305576
+        },
+        {
+          "path": "images/n-cncm05.jpg",
+          "bytes": 272211
+        },
+        {
+          "path": "images/n-cncm06.jpg",
+          "bytes": 280637
+        },
+        {
+          "path": "images/n-cncm07.jpg",
+          "bytes": 229904
+        },
+        {
+          "path": "images/n-cncm08.jpg",
+          "bytes": 316291
+        },
+        {
+          "path": "images/n-cncm09.jpg",
+          "bytes": 211022
+        },
+        {
+          "path": "images/n-cncm10.jpg",
+          "bytes": 209559
+        },
+        {
+          "path": "images/n-cncm11.jpg",
+          "bytes": 200496
+        },
+        {
+          "path": "images/n-cncm12.jpg",
+          "bytes": 236241
+        },
+        {
+          "path": "images/n-cncm13.jpg",
+          "bytes": 172214
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-famg.html",
+      "html_bytes": 41998,
+      "image_tags": 20,
+      "lazy_images": 0,
+      "images_missing_dimensions": 19,
+      "image_and_inline_background_bytes": 2947406,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-famg02.jpg",
+          "bytes": 346602
+        },
+        {
+          "path": "images/n-famg03.jpg",
+          "bytes": 338466
+        },
+        {
+          "path": "images/n-famg03x.jpg",
+          "bytes": 70204
+        },
+        {
+          "path": "images/n-famg04.jpg",
+          "bytes": 198518
+        },
+        {
+          "path": "images/n-famg05.jpg",
+          "bytes": 172288
+        },
+        {
+          "path": "images/n-famg06.jpg",
+          "bytes": 202400
+        },
+        {
+          "path": "images/n-famg07.jpg",
+          "bytes": 279616
+        },
+        {
+          "path": "images/n-famg08.jpg",
+          "bytes": 245549
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-formosa.html",
+      "html_bytes": 39592,
+      "image_tags": 22,
+      "lazy_images": 0,
+      "images_missing_dimensions": 22,
+      "image_and_inline_background_bytes": 4334487,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-formo10.jpg",
+          "bytes": 481738
+        },
+        {
+          "path": "images/n-formo11.jpg",
+          "bytes": 260816
+        },
+        {
+          "path": "images/n-formo3.jpg",
+          "bytes": 240758
+        },
+        {
+          "path": "images/n-formo4.jpg",
+          "bytes": 268004
+        },
+        {
+          "path": "images/n-formo5.jpg",
+          "bytes": 354461
+        },
+        {
+          "path": "images/n-formo6.jpg",
+          "bytes": 218833
+        },
+        {
+          "path": "images/n-formo7.jpg",
+          "bytes": 341212
+        },
+        {
+          "path": "images/n-formo8.jpg",
+          "bytes": 241858
+        },
+        {
+          "path": "images/n-formo9.jpg",
+          "bytes": 273945
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/new2b.jpg",
+          "bytes": 559099
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-hrsx.html",
+      "html_bytes": 40958,
+      "image_tags": 23,
+      "lazy_images": 0,
+      "images_missing_dimensions": 23,
+      "image_and_inline_background_bytes": 4704168,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-hrsx02.jpg",
+          "bytes": 688206
+        },
+        {
+          "path": "images/n-hrsx03.jpg",
+          "bytes": 302255
+        },
+        {
+          "path": "images/n-hrsx04.jpg",
+          "bytes": 434709
+        },
+        {
+          "path": "images/n-hrsx05.jpg",
+          "bytes": 247602
+        },
+        {
+          "path": "images/n-hrsx06.jpg",
+          "bytes": 180950
+        },
+        {
+          "path": "images/n-hrsx07.jpg",
+          "bytes": 255981
+        },
+        {
+          "path": "images/n-hrsx08.jpg",
+          "bytes": 330668
+        },
+        {
+          "path": "images/n-hrsx09.jpg",
+          "bytes": 238188
+        },
+        {
+          "path": "images/n-hrsx10.jpg",
+          "bytes": 279918
+        },
+        {
+          "path": "images/n-hrsx11.jpg",
+          "bytes": 323527
+        },
+        {
+          "path": "images/n-hrsx12.jpg",
+          "bytes": 328401
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-hse.html",
+      "html_bytes": 43114,
+      "image_tags": 18,
+      "lazy_images": 0,
+      "images_missing_dimensions": 18,
+      "image_and_inline_background_bytes": 3389257,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/new2a.jpg",
+          "bytes": 270072
+        },
+        {
+          "path": "images/new3a.jpg",
+          "bytes": 382015
+        },
+        {
+          "path": "images/new4a.jpg",
+          "bytes": 514214
+        },
+        {
+          "path": "images/new5a.jpg",
+          "bytes": 304162
+        },
+        {
+          "path": "images/new6a.jpg",
+          "bytes": 425882
+        },
+        {
+          "path": "images/new7a.jpg",
+          "bytes": 399149
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-ivyc.html",
+      "html_bytes": 41338,
+      "image_tags": 20,
+      "lazy_images": 0,
+      "images_missing_dimensions": 20,
+      "image_and_inline_background_bytes": 3848084,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-ivyc02.jpg",
+          "bytes": 857821
+        },
+        {
+          "path": "images/n-ivyc03.jpg",
+          "bytes": 270431
+        },
+        {
+          "path": "images/n-ivyc04.jpg",
+          "bytes": 215708
+        },
+        {
+          "path": "images/n-ivyc05.jpg",
+          "bytes": 182824
+        },
+        {
+          "path": "images/n-ivyc06.jpg",
+          "bytes": 187487
+        },
+        {
+          "path": "images/n-ivyc07.jpg",
+          "bytes": 185410
+        },
+        {
+          "path": "images/n-ivyc08.jpg",
+          "bytes": 658764
+        },
+        {
+          "path": "images/n-ivyc10.jpg",
+          "bytes": 195876
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-kem.html",
+      "html_bytes": 40998,
+      "image_tags": 22,
+      "lazy_images": 0,
+      "images_missing_dimensions": 22,
+      "image_and_inline_background_bytes": 4412431,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-kem02.jpg",
+          "bytes": 497026
+        },
+        {
+          "path": "images/n-kem03.jpg",
+          "bytes": 420683
+        },
+        {
+          "path": "images/n-kem04.jpg",
+          "bytes": 408750
+        },
+        {
+          "path": "images/n-kem05.jpg",
+          "bytes": 260750
+        },
+        {
+          "path": "images/n-kem06.jpg",
+          "bytes": 259369
+        },
+        {
+          "path": "images/n-kem07.jpg",
+          "bytes": 279803
+        },
+        {
+          "path": "images/n-kem08.jpg",
+          "bytes": 365772
+        },
+        {
+          "path": "images/n-kem09.jpg",
+          "bytes": 318675
+        },
+        {
+          "path": "images/n-kem10.jpg",
+          "bytes": 336104
+        },
+        {
+          "path": "images/n-kem11.jpg",
+          "bytes": 171736
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-macc.html",
+      "html_bytes": 42080,
+      "image_tags": 23,
+      "lazy_images": 0,
+      "images_missing_dimensions": 22,
+      "image_and_inline_background_bytes": 4902135,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-macc02.jpg",
+          "bytes": 1092435
+        },
+        {
+          "path": "images/n-macc03.jpg",
+          "bytes": 509256
+        },
+        {
+          "path": "images/n-macc03x.jpg",
+          "bytes": 62422
+        },
+        {
+          "path": "images/n-macc04.jpg",
+          "bytes": 377308
+        },
+        {
+          "path": "images/n-macc05.jpg",
+          "bytes": 240742
+        },
+        {
+          "path": "images/n-macc06.jpg",
+          "bytes": 300713
+        },
+        {
+          "path": "images/n-macc07.jpg",
+          "bytes": 186990
+        },
+        {
+          "path": "images/n-macc08.jpg",
+          "bytes": 274355
+        },
+        {
+          "path": "images/n-macc09.jpg",
+          "bytes": 180217
+        },
+        {
+          "path": "images/n-macc10.jpg",
+          "bytes": 217365
+        },
+        {
+          "path": "images/n-macc11.jpg",
+          "bytes": 366569
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-mini.html",
+      "html_bytes": 44178,
+      "image_tags": 31,
+      "lazy_images": 0,
+      "images_missing_dimensions": 30,
+      "image_and_inline_background_bytes": 6646933,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/n-mini02.jpg",
+          "bytes": 296532
+        },
+        {
+          "path": "images/n-mini03.jpg",
+          "bytes": 270864
+        },
+        {
+          "path": "images/n-mini03x.jpg",
+          "bytes": 67451
+        },
+        {
+          "path": "images/n-mini04.jpg",
+          "bytes": 366364
+        },
+        {
+          "path": "images/n-mini05.jpg",
+          "bytes": 339811
+        },
+        {
+          "path": "images/n-mini06.jpg",
+          "bytes": 329677
+        },
+        {
+          "path": "images/n-mini07.jpg",
+          "bytes": 369076
+        },
+        {
+          "path": "images/n-mini08.jpg",
+          "bytes": 352984
+        },
+        {
+          "path": "images/n-mini09.jpg",
+          "bytes": 307370
+        },
+        {
+          "path": "images/n-mini10.jpg",
+          "bytes": 305657
+        },
+        {
+          "path": "images/n-mini11.jpg",
+          "bytes": 353452
+        },
+        {
+          "path": "images/n-mini12.jpg",
+          "bytes": 336625
+        },
+        {
+          "path": "images/n-mini13.jpg",
+          "bytes": 262337
+        },
+        {
+          "path": "images/n-mini14.jpg",
+          "bytes": 287582
+        },
+        {
+          "path": "images/n-mini15.jpg",
+          "bytes": 168989
+        },
+        {
+          "path": "images/n-mini16.jpg",
+          "bytes": 293629
+        },
+        {
+          "path": "images/n-mini17.jpg",
+          "bytes": 266101
+        },
+        {
+          "path": "images/n-mini18.jpg",
+          "bytes": 291400
+        },
+        {
+          "path": "images/n-mini19.jpg",
+          "bytes": 287269
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-nfe.html",
+      "html_bytes": 39010,
+      "image_tags": 18,
+      "lazy_images": 0,
+      "images_missing_dimensions": 18,
+      "image_and_inline_background_bytes": 3277184,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/new2c.jpg",
+          "bytes": 243416
+        },
+        {
+          "path": "images/new3c.jpg",
+          "bytes": 362746
+        },
+        {
+          "path": "images/new4c.jpg",
+          "bytes": 402677
+        },
+        {
+          "path": "images/new5c.jpg",
+          "bytes": 415926
+        },
+        {
+          "path": "images/new6c.jpg",
+          "bytes": 343180
+        },
+        {
+          "path": "images/new7c.jpg",
+          "bytes": 415476
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-pluto.html",
+      "html_bytes": 43241,
+      "image_tags": 18,
+      "lazy_images": 0,
+      "images_missing_dimensions": 18,
+      "image_and_inline_background_bytes": 3643880,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/new2.jpg",
+          "bytes": 574216
+        },
+        {
+          "path": "images/new3.jpg",
+          "bytes": 271222
+        },
+        {
+          "path": "images/new4.jpg",
+          "bytes": 431399
+        },
+        {
+          "path": "images/new5.jpg",
+          "bytes": 335605
+        },
+        {
+          "path": "images/new6.jpg",
+          "bytes": 451817
+        },
+        {
+          "path": "images/new7.jpg",
+          "bytes": 485858
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "n-valmet.html",
+      "html_bytes": 38147,
+      "image_tags": 16,
+      "lazy_images": 0,
+      "images_missing_dimensions": 16,
+      "image_and_inline_background_bytes": 10698908,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/n-cncm01.jpg",
+          "bytes": 28339
+        },
+        {
+          "path": "images/n-famg01.jpg",
+          "bytes": 28979
+        },
+        {
+          "path": "images/n-hrsx01.jpg",
+          "bytes": 33328
+        },
+        {
+          "path": "images/n-ivyc01.jpg",
+          "bytes": 22498
+        },
+        {
+          "path": "images/n-kem01.jpg",
+          "bytes": 32356
+        },
+        {
+          "path": "images/n-macc01.jpg",
+          "bytes": 26592
+        },
+        {
+          "path": "images/n-mini01.jpg",
+          "bytes": 28444
+        },
+        {
+          "path": "images/new1.jpg",
+          "bytes": 45268
+        },
+        {
+          "path": "images/new1a.jpg",
+          "bytes": 29940
+        },
+        {
+          "path": "images/new1b.jpg",
+          "bytes": 43078
+        },
+        {
+          "path": "images/new1c.jpg",
+          "bytes": 41022
+        },
+        {
+          "path": "images/news5.1.png",
+          "bytes": 1744366
+        },
+        {
+          "path": "images/news5.2.png",
+          "bytes": 4006963
+        },
+        {
+          "path": "images/news5.3.png",
+          "bytes": 2243532
+        },
+        {
+          "path": "images/news5.4.png",
+          "bytes": 676442
+        },
+        {
+          "path": "images/news5.5.png",
+          "bytes": 1610284
+        }
+      ],
+      "external_scripts": 20,
+      "script_bytes": 760572,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "ong-gal.html",
+      "html_bytes": 17899,
+      "image_tags": 21,
+      "lazy_images": 0,
+      "images_missing_dimensions": 21,
+      "image_and_inline_background_bytes": 2736057,
+      "image_assets": [
+        {
+          "path": "images/logo.png",
+          "bytes": 29816
+        },
+        {
+          "path": "images/page-title.jpg",
+          "bytes": 146217
+        },
+        {
+          "path": "images/projects/p-agep1.webp",
+          "bytes": 154244
+        },
+        {
+          "path": "images/projects/p-agep2.webp",
+          "bytes": 134992
+        },
+        {
+          "path": "images/projects/p-agep3.webp",
+          "bytes": 115296
+        },
+        {
+          "path": "images/projects/p-agep4.webp",
+          "bytes": 78818
+        },
+        {
+          "path": "images/projects/p-bgil1.webp",
+          "bytes": 120404
+        },
+        {
+          "path": "images/projects/p-bgil2.webp",
+          "bytes": 112806
+        },
+        {
+          "path": "images/projects/p-bgil3.webp",
+          "bytes": 188338
+        },
+        {
+          "path": "images/projects/p-bgil4.webp",
+          "bytes": 80658
+        },
+        {
+          "path": "images/projects/p-biga1.webp",
+          "bytes": 179660
+        },
+        {
+          "path": "images/projects/p-biga2.webp",
+          "bytes": 146674
+        },
+        {
+          "path": "images/projects/p-biga3.webp",
+          "bytes": 171768
+        },
+        {
+          "path": "images/projects/p-buze1.webp",
+          "bytes": 186566
+        },
+        {
+          "path": "images/projects/p-buze2.webp",
+          "bytes": 118402
+        },
+        {
+          "path": "images/projects/p-buze3.webp",
+          "bytes": 139612
+        },
+        {
+          "path": "images/projects/p-cfbp1.webp",
+          "bytes": 136622
+        },
+        {
+          "path": "images/projects/p-smsl1.webp",
+          "bytes": 120902
+        },
+        {
+          "path": "images/projects/p-smsl2.webp",
+          "bytes": 134552
+        },
+        {
+          "path": "images/projects/p-smsl3.webp",
+          "bytes": 125008
+        },
+        {
+          "path": "images/projects/p-smsl4.webp",
+          "bytes": 114702
+        }
+      ],
+      "external_scripts": 1,
+      "script_bytes": 29623,
+      "stylesheets": 6,
+      "css_bytes": 860302,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "portfolio-1.html",
+      "html_bytes": 60963,
+      "image_tags": 18,
+      "lazy_images": 0,
+      "images_missing_dimensions": 16,
+      "image_and_inline_background_bytes": 73753,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/Portfolio.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        },
+        {
+          "path": "images/portfolio/pic1.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic2.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic7.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic8.jpg",
+          "bytes": 4241
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 13,
+      "css_bytes": 571315,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "portfolio-3.html",
+      "html_bytes": 59339,
+      "image_tags": 18,
+      "lazy_images": 0,
+      "images_missing_dimensions": 16,
+      "image_and_inline_background_bytes": 65271,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/Portfolio.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        },
+        {
+          "path": "images/portfolio/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic7.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic8.jpg",
+          "bytes": 4241
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 13,
+      "css_bytes": 551409,
+      "identical_stylesheets": [],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "portfolio-detail.html",
+      "html_bytes": 63880,
+      "image_tags": 21,
+      "lazy_images": 0,
+      "images_missing_dimensions": 19,
+      "image_and_inline_background_bytes": 83420,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/product-banner.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        },
+        {
+          "path": "images/our-work/pic1.jpg",
+          "bytes": 4636
+        },
+        {
+          "path": "images/our-work/pic2.jpg",
+          "bytes": 4636
+        },
+        {
+          "path": "images/our-work/pic3.jpg",
+          "bytes": 4636
+        },
+        {
+          "path": "images/portfolio/pic2.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic7.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic8.jpg",
+          "bytes": 4241
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "product-detail.html",
+      "html_bytes": 83620,
+      "image_tags": 23,
+      "lazy_images": 0,
+      "images_missing_dimensions": 21,
+      "image_and_inline_background_bytes": 80655,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/product-banner.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        },
+        {
+          "path": "images/products/pic-1.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-2.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-3.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-4.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-5.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-6.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-7.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/pic-8.jpg",
+          "bytes": 3198
+        },
+        {
+          "path": "images/products/thumb/pic1.jpg",
+          "bytes": 1665
+        },
+        {
+          "path": "images/products/thumb/pic2.jpg",
+          "bytes": 1665
+        },
+        {
+          "path": "images/products/thumb/pic3.jpg",
+          "bytes": 1665
+        },
+        {
+          "path": "images/products/thumb/pic4.jpg",
+          "bytes": 1665
+        },
+        {
+          "path": "images/products/thumb/pic5.jpg",
+          "bytes": 1665
+        },
+        {
+          "path": "images/testimonials/pic1.jpg",
+          "bytes": 2307
+        },
+        {
+          "path": "images/testimonials/pic2.jpg",
+          "bytes": 2307
+        },
+        {
+          "path": "images/testimonials/pic3.jpg",
+          "bytes": 2307
+        }
+      ],
+      "external_scripts": 15,
+      "script_bytes": 387549,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "projects.html",
+      "html_bytes": 42326,
+      "image_tags": 22,
+      "lazy_images": 0,
+      "images_missing_dimensions": 22,
+      "image_and_inline_background_bytes": 101298,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/Portfolio.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        },
+        {
+          "path": "images/portfolio/pic1.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic2.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic3.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic4.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic5.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic6.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic7.jpg",
+          "bytes": 4241
+        },
+        {
+          "path": "images/portfolio/pic8.jpg",
+          "bytes": 4241
+        }
+      ],
+      "external_scripts": 18,
+      "script_bytes": 756780,
+      "stylesheets": 15,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": true
+    },
+    {
+      "page": "purposeandvalues.html",
+      "html_bytes": 16284,
+      "image_tags": 1,
+      "lazy_images": 0,
+      "images_missing_dimensions": 1,
+      "image_and_inline_background_bytes": 67370,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/Portfolio.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/logo-white (1).png",
+          "bytes": 32404
+        }
+      ],
+      "external_scripts": 19,
+      "script_bytes": 759732,
+      "stylesheets": 14,
+      "css_bytes": 660951,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "pwr-gal.html",
+      "html_bytes": 17883,
+      "image_tags": 21,
+      "lazy_images": 0,
+      "images_missing_dimensions": 21,
+      "image_and_inline_background_bytes": 2736057,
+      "image_assets": [
+        {
+          "path": "images/logo.png",
+          "bytes": 29816
+        },
+        {
+          "path": "images/page-title.jpg",
+          "bytes": 146217
+        },
+        {
+          "path": "images/projects/p-agep1.webp",
+          "bytes": 154244
+        },
+        {
+          "path": "images/projects/p-agep2.webp",
+          "bytes": 134992
+        },
+        {
+          "path": "images/projects/p-agep3.webp",
+          "bytes": 115296
+        },
+        {
+          "path": "images/projects/p-agep4.webp",
+          "bytes": 78818
+        },
+        {
+          "path": "images/projects/p-bgil1.webp",
+          "bytes": 120404
+        },
+        {
+          "path": "images/projects/p-bgil2.webp",
+          "bytes": 112806
+        },
+        {
+          "path": "images/projects/p-bgil3.webp",
+          "bytes": 188338
+        },
+        {
+          "path": "images/projects/p-bgil4.webp",
+          "bytes": 80658
+        },
+        {
+          "path": "images/projects/p-biga1.webp",
+          "bytes": 179660
+        },
+        {
+          "path": "images/projects/p-biga2.webp",
+          "bytes": 146674
+        },
+        {
+          "path": "images/projects/p-biga3.webp",
+          "bytes": 171768
+        },
+        {
+          "path": "images/projects/p-buze1.webp",
+          "bytes": 186566
+        },
+        {
+          "path": "images/projects/p-buze2.webp",
+          "bytes": 118402
+        },
+        {
+          "path": "images/projects/p-buze3.webp",
+          "bytes": 139612
+        },
+        {
+          "path": "images/projects/p-cfbp1.webp",
+          "bytes": 136622
+        },
+        {
+          "path": "images/projects/p-smsl1.webp",
+          "bytes": 120902
+        },
+        {
+          "path": "images/projects/p-smsl2.webp",
+          "bytes": 134552
+        },
+        {
+          "path": "images/projects/p-smsl3.webp",
+          "bytes": 125008
+        },
+        {
+          "path": "images/projects/p-smsl4.webp",
+          "bytes": 114702
+        }
+      ],
+      "external_scripts": 1,
+      "script_bytes": 29623,
+      "stylesheets": 6,
+      "css_bytes": 860302,
+      "identical_stylesheets": [
+        [
+          "css/font.css",
+          "fonts/font.css"
+        ]
+      ],
+      "whole_page_loader": false,
+      "legacy_imagesloaded_masonry": false
+    },
+    {
+      "page": "shortcode-pagination.html",
+      "html_bytes": 63368,
+      "image_tags": 6,
+      "lazy_images": 0,
+      "images_missing_dimensions": 4,
+      "image_and_inline_background_bytes": 39825,
+      "image_assets": [
+        {
+          "path": "images/background/bg-4.png",
+          "bytes": 25073
+        },
+        {
+          "path": "images/banner/all.jpg",
+          "bytes": 9893
+        },
+        {
+          "path": "images/cart/pic-1.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-2.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-3.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/cart/pic-4.jpg",
+          "bytes": 693
+        },
+        {
+          "path": "images/footer-logo.png",
+          "bytes": 1066
+        },
+        {
+          "path": "images/logo-dark.png",
+          "bytes": 1021
+        }
+      ],
+      "external_scripts": 15,
+      "script_bytes": 387549,
+      "stylesheets": 13,
+      "css_bytes": 551409,
+      "identical_stylesheets": [],
+      "whole_page_loader": true,
+      "legacy_imagesloaded_masonry": false
+    }
+  ],
+  "missing_direct_assets": [
+    {
+      "path": "css/gal.css",
+      "pages": [
+        "careers.html",
+        "contact.html",
+        "media.html",
+        "mgman.html",
+        "modhex.html",
+        "n-cncm.html",
+        "n-famg.html",
+        "n-formosa.html",
+        "n-hrsx.html",
+        "n-hse.html",
+        "n-ivyc.html",
+        "n-kem.html",
+        "n-macc.html",
+        "n-mini.html",
+        "n-nfe.html",
+        "n-pluto.html",
+        "n-valmet.html",
+        "portfolio-1.html",
+        "portfolio-detail.html",
+        "product-detail.html",
+        "projects.html"
+      ]
+    },
+    {
+      "path": "images/about-pic4.jpg",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/client-logo/w1.png",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/client-logo/w2.png",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/client-logo/w3.png",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/client-logo/w4.png",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/client-logo/w5.png",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/client-logo/w6.png",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/large-blog.jpg",
+      "pages": [
+        "index-4.html"
+      ]
+    },
+    {
+      "path": "images/logo-light.png",
+      "pages": [
+        "index-3.html"
+      ]
+    },
+    {
+      "path": "images/pic-c-1.png",
+      "pages": [
+        "index-3.html"
+      ]
+    },
+    {
+      "path": "images/test02.jpg",
+      "pages": [
+        "portfolio-1.html",
+        "portfolio-3.html",
+        "portfolio-detail.html"
+      ]
+    }
+  ],
+  "missing_css_assets": [
+    {
+      "path": "css/images/grid.png",
+      "stylesheets": [
+        "css/style-gal.css"
+      ]
+    },
+    {
+      "path": "css/images/icons/close.png",
+      "stylesheets": [
+        "css/style-gal.css"
+      ]
+    },
+    {
+      "path": "css/images/icons/iconalt.svg",
+      "stylesheets": [
+        "css/style-gal.css"
+      ]
+    },
+    {
+      "path": "css/images/icons/play.png",
+      "stylesheets": [
+        "css/style-gal.css"
+      ]
+    },
+    {
+      "path": "css/images/pattern.png",
+      "stylesheets": [
+        "css/style-gal.css"
+      ]
+    },
+    {
+      "path": "css/owl.video.play.png",
+      "stylesheets": [
+        "css/owl.carousel.min.css"
+      ]
+    },
+    {
+      "path": "fonts/crete-round-v14-latin_latin-ext-italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/crete-round-v14-latin_latin-ext-regular.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-300.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-300italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-500.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-500italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-600.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-600italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-700.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-700italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-800.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-800italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/open-sans-v35-latin-regular.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-100.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-300.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-300italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-500.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-500italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-700.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-700italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-900.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-900italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-italic.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "fonts/roboto-v30-latin-regular.woff2",
+      "stylesheets": [
+        "css/font.css",
+        "fonts/font.css"
+      ]
+    },
+    {
+      "path": "images/main-page-pic/btn-wrap-bg-dark.jpg",
+      "stylesheets": [
+        "css/style.css"
+      ]
+    }
+  ]
+}

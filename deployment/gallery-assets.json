@@ -1,0 +1,826 @@
+[
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmae01 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmae01-1-png-b74882151f00.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 252822,
+    "output_bytes": 34354
+  },
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmae02 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmae02-1-png-15a1fe136b37.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 338384,
+    "output_bytes": 40442
+  },
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmae03 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmae03-1-png-23f5c803ec8d.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 309281,
+    "output_bytes": 40980
+  },
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmae04 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmae04-1-png-ab9873e755c3.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 280673,
+    "output_bytes": 38436
+  },
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmae05 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmae05-1-png-6efdad79622a.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 293896,
+    "output_bytes": 41986
+  },
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmne 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmne-1-png-1ab44d4085a4.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 392923,
+    "output_bytes": 64834
+  },
+  {
+    "source": "images/!MMEC images/Gallery/1Officeyard/mmso 1.png",
+    "output": "images/gallery-optimized/1officeyard-mmso-1-png-498172739adf.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 381643,
+    "output_bytes": 63710
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/1north 1.jpg",
+    "output": "images/gallery-optimized/2workshop-1north-1-jpg-1be77765fbb8.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 106298,
+    "output_bytes": 46240
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/1south 1.png",
+    "output": "images/gallery-optimized/2workshop-1south-1-png-6f54964ee5bc.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 346057,
+    "output_bytes": 49262
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/2north 1.png",
+    "output": "images/gallery-optimized/2workshop-2north-1-png-ee3130f2ee87.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 346214,
+    "output_bytes": 51216
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/2south 1.png",
+    "output": "images/gallery-optimized/2workshop-2south-1-png-200574ad7597.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 346264,
+    "output_bytes": 50950
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/3north 1.png",
+    "output": "images/gallery-optimized/2workshop-3north-1-png-e962eead92ac.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 334632,
+    "output_bytes": 46260
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/3south 1.png",
+    "output": "images/gallery-optimized/2workshop-3south-1-png-0f84d834efc4.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 342395,
+    "output_bytes": 48330
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/4north 1.png",
+    "output": "images/gallery-optimized/2workshop-4north-1-png-f8dc1c8890b9.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 358695,
+    "output_bytes": 55178
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/4south 1.png",
+    "output": "images/gallery-optimized/2workshop-4south-1-png-e1464d5ad102.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 335781,
+    "output_bytes": 47920
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/5north 1.png",
+    "output": "images/gallery-optimized/2workshop-5north-1-png-51e011bf360f.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 362714,
+    "output_bytes": 55420
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/5south 1.png",
+    "output": "images/gallery-optimized/2workshop-5south-1-png-526fd4bbadec.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 347819,
+    "output_bytes": 52114
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/6north 1.png",
+    "output": "images/gallery-optimized/2workshop-6north-1-png-037de43f7b95.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 367235,
+    "output_bytes": 63104
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/6south 1.png",
+    "output": "images/gallery-optimized/2workshop-6south-1-png-ab06c56c061c.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 353287,
+    "output_bytes": 52976
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/7north 1.png",
+    "output": "images/gallery-optimized/2workshop-7north-1-png-1bad0c6cf5da.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 361337,
+    "output_bytes": 56262
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/8north 1.png",
+    "output": "images/gallery-optimized/2workshop-8north-1-png-9aa6af5f8205.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 235386,
+    "output_bytes": 16820
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/csp01 1.png",
+    "output": "images/gallery-optimized/2workshop-csp01-1-png-992e16761be6.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 372102,
+    "output_bytes": 58332
+  },
+  {
+    "source": "images/!MMEC images/Gallery/2workshop/ssp01 1.png",
+    "output": "images/gallery-optimized/2workshop-ssp01-1-png-1a4166274711.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 357956,
+    "output_bytes": 53912
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep1 1.png",
+    "output": "images/gallery-optimized/3port-ghep1-1-png-444e3bf08d34.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 329207,
+    "output_bytes": 42748
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep2 1.png",
+    "output": "images/gallery-optimized/3port-ghep2-1-png-9548db917b58.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 265718,
+    "output_bytes": 33800
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep3 1.png",
+    "output": "images/gallery-optimized/3port-ghep3-1-png-69b4ca7211e7.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 316712,
+    "output_bytes": 42312
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep4 1.png",
+    "output": "images/gallery-optimized/3port-ghep4-1-png-5ef6544dd544.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 224654,
+    "output_bytes": 25326
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep5 1.png",
+    "output": "images/gallery-optimized/3port-ghep5-1-png-569132787048.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 270212,
+    "output_bytes": 34444
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep6 1.png",
+    "output": "images/gallery-optimized/3port-ghep6-1-png-c69f1fc9d36a.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 206337,
+    "output_bytes": 20884
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep8 1.png",
+    "output": "images/gallery-optimized/3port-ghep8-1-png-c2940aad8705.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 237868,
+    "output_bytes": 30648
+  },
+  {
+    "source": "images/!MMEC images/Gallery/3port/ghep9 1.png",
+    "output": "images/gallery-optimized/3port-ghep9-1-png-6bd5958ab156.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 252250,
+    "output_bytes": 24516
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng01 1.png",
+    "output": "images/gallery-optimized/4engineering-eng01-1-png-d5e408e19c7c.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 260468,
+    "output_bytes": 28658
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng02 1.png",
+    "output": "images/gallery-optimized/4engineering-eng02-1-png-266d2023c29d.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 269612,
+    "output_bytes": 28650
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng03 1.png",
+    "output": "images/gallery-optimized/4engineering-eng03-1-png-609750d10761.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 238084,
+    "output_bytes": 21686
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng04 1.png",
+    "output": "images/gallery-optimized/4engineering-eng04-1-png-b3b898abf8a4.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 268836,
+    "output_bytes": 29544
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng05 1.png",
+    "output": "images/gallery-optimized/4engineering-eng05-1-png-f637a3c11843.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 277872,
+    "output_bytes": 34588
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng06 1.png",
+    "output": "images/gallery-optimized/4engineering-eng06-1-png-ea5717375b89.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 219409,
+    "output_bytes": 18776
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng07 1.png",
+    "output": "images/gallery-optimized/4engineering-eng07-1-png-60fba31f158a.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 203174,
+    "output_bytes": 18544
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng08 1.png",
+    "output": "images/gallery-optimized/4engineering-eng08-1-png-e60260fbc5a9.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 261499,
+    "output_bytes": 27464
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng09 1.png",
+    "output": "images/gallery-optimized/4engineering-eng09-1-png-4043efcc3b08.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 212019,
+    "output_bytes": 20278
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng10 1.png",
+    "output": "images/gallery-optimized/4engineering-eng10-1-png-f4653544a618.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 247266,
+    "output_bytes": 24976
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng11 1.png",
+    "output": "images/gallery-optimized/4engineering-eng11-1-png-207c60319502.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 239954,
+    "output_bytes": 22352
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng13 1.png",
+    "output": "images/gallery-optimized/4engineering-eng13-1-png-1e819eb7f1ca.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 329704,
+    "output_bytes": 55044
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng14 1.png",
+    "output": "images/gallery-optimized/4engineering-eng14-1-png-f82b5116ba8c.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 247402,
+    "output_bytes": 38334
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng15 1.png",
+    "output": "images/gallery-optimized/4engineering-eng15-1-png-eb490feecae1.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 96561,
+    "output_bytes": 15772
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng16 1.png",
+    "output": "images/gallery-optimized/4engineering-eng16-1-png-7032df8d62b1.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 160346,
+    "output_bytes": 32458
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng17 1.png",
+    "output": "images/gallery-optimized/4engineering-eng17-1-png-4b47fe8aa813.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 63462,
+    "output_bytes": 9780
+  },
+  {
+    "source": "images/!MMEC images/Gallery/4Engineering/eng18 1.png",
+    "output": "images/gallery-optimized/4engineering-eng18-1-png-3b37da31cfef.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 90120,
+    "output_bytes": 17936
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat1 1.png",
+    "output": "images/gallery-optimized/5material-mat1-1-png-a7561f3c23ff.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 290977,
+    "output_bytes": 32962
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat10 1.png",
+    "output": "images/gallery-optimized/5material-mat10-1-png-a97ca88f95d0.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 232621,
+    "output_bytes": 21130
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat2 1.png",
+    "output": "images/gallery-optimized/5material-mat2-1-png-10dfd4aee8d0.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 287857,
+    "output_bytes": 42680
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat3 1.png",
+    "output": "images/gallery-optimized/5material-mat3-1-png-5d07ce553edb.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 335962,
+    "output_bytes": 48270
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat4 1.png",
+    "output": "images/gallery-optimized/5material-mat4-1-png-dac082485e81.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 369602,
+    "output_bytes": 60734
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat5 1.png",
+    "output": "images/gallery-optimized/5material-mat5-1-png-96f3ad8a9c14.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 347047,
+    "output_bytes": 46372
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat6 1.png",
+    "output": "images/gallery-optimized/5material-mat6-1-png-40dca5ecbd77.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 295847,
+    "output_bytes": 30292
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat7 1.png",
+    "output": "images/gallery-optimized/5material-mat7-1-png-988028395f7d.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 284350,
+    "output_bytes": 35492
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat8 1.png",
+    "output": "images/gallery-optimized/5material-mat8-1-png-26435d5c217c.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 278639,
+    "output_bytes": 35048
+  },
+  {
+    "source": "images/!MMEC images/Gallery/5Material/mat9 1.png",
+    "output": "images/gallery-optimized/5material-mat9-1-png-8ced8f309f05.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 347260,
+    "output_bytes": 62592
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr10 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr10-1-png-4b7594659d2b.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 291341,
+    "output_bytes": 32288
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr11 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr11-1-png-52f922b6d0c2.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 248901,
+    "output_bytes": 23496
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr12 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr12-1-png-9c9943f0b395.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 258628,
+    "output_bytes": 20914
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr13 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr13-1-png-3b156dceeeaf.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 278787,
+    "output_bytes": 27964
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr14 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr14-1-png-83d43404b5c3.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 327421,
+    "output_bytes": 46534
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr15 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr15-1-png-4357a941463a.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 297035,
+    "output_bytes": 34978
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr2 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr2-1-png-580ae551a2b6.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 259190,
+    "output_bytes": 28596
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr3 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr3-1-png-24e9a13fa429.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 223140,
+    "output_bytes": 17648
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr4 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr4-1-png-59bc203c0cb3.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 301002,
+    "output_bytes": 41074
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr5 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr5-1-png-b2011c126163.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 266073,
+    "output_bytes": 28136
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr6 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr6-1-png-ad73a65577f7.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 343445,
+    "output_bytes": 51286
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr7 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr7-1-png-7513fb19f521.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 282870,
+    "output_bytes": 42216
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr8 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr8-1-png-07cb817beec4.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 252094,
+    "output_bytes": 20906
+  },
+  {
+    "source": "images/!MMEC images/Gallery/6Fabrication/fabr9 1.png",
+    "output": "images/gallery-optimized/6fabrication-fabr9-1-png-0c393205c09c.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 310950,
+    "output_bytes": 39336
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep1 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep1-1-png-aeafc9eff34b.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 306347,
+    "output_bytes": 40598
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep2 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep2-1-png-197e1eedca01.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 308486,
+    "output_bytes": 40114
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep3 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep3-1-png-c59e1dd3b557.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 344882,
+    "output_bytes": 47102
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep4 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep4-1-png-4a9c8f8d9486.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 309510,
+    "output_bytes": 42190
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep5 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep5-1-png-d8594c9fa085.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 279245,
+    "output_bytes": 28262
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep6 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep6-1-png-5edf802dad5b.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 334998,
+    "output_bytes": 46510
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep7 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep7-1-png-6d41e5fa9c95.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 297864,
+    "output_bytes": 34522
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep8 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep8-1-png-77972d055d80.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 348644,
+    "output_bytes": 51608
+  },
+  {
+    "source": "images/!MMEC images/Gallery/7Beam & Profile/bep9 1.png",
+    "output": "images/gallery-optimized/7beam-profile-bep9-1-png-a3ba23fb2b43.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 364959,
+    "output_bytes": 55756
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus1 1.png",
+    "output": "images/gallery-optimized/8built-up-bus1-1-png-37653b7d3464.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 330183,
+    "output_bytes": 46900
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus10 1.png",
+    "output": "images/gallery-optimized/8built-up-bus10-1-png-5010b03206ef.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 295230,
+    "output_bytes": 32072
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus11 1.png",
+    "output": "images/gallery-optimized/8built-up-bus11-1-png-7a1bd5b217dc.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 307754,
+    "output_bytes": 41940
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus12 1.png",
+    "output": "images/gallery-optimized/8built-up-bus12-1-png-6f21fe1d626b.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 264133,
+    "output_bytes": 29676
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus2 1.png",
+    "output": "images/gallery-optimized/8built-up-bus2-1-png-98a458c6ac05.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 291363,
+    "output_bytes": 33774
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus3 1.png",
+    "output": "images/gallery-optimized/8built-up-bus3-1-png-0b0094cf938e.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 269060,
+    "output_bytes": 25654
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus4 1.png",
+    "output": "images/gallery-optimized/8built-up-bus4-1-png-a22698c2291b.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 322744,
+    "output_bytes": 42570
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus4a 1.png",
+    "output": "images/gallery-optimized/8built-up-bus4a-1-png-8d20046dffd0.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 345548,
+    "output_bytes": 49432
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus5 1.png",
+    "output": "images/gallery-optimized/8built-up-bus5-1-png-1831b8f5420e.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 276359,
+    "output_bytes": 30976
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus6 1.png",
+    "output": "images/gallery-optimized/8built-up-bus6-1-png-eb642b32ec09.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 298080,
+    "output_bytes": 30444
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus7 1.png",
+    "output": "images/gallery-optimized/8built-up-bus7-1-png-514277b418fb.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 306941,
+    "output_bytes": 36918
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus8 1.png",
+    "output": "images/gallery-optimized/8built-up-bus8-1-png-920568669b07.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 317060,
+    "output_bytes": 40656
+  },
+  {
+    "source": "images/!MMEC images/Gallery/8Built-up/bus9 1.png",
+    "output": "images/gallery-optimized/8built-up-bus9-1-png-d5fb04e080b6.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 289067,
+    "output_bytes": 30774
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu1 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu1-1-png-ffce47ee9c27.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 275718,
+    "output_bytes": 26808
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu2 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu2-1-png-a2779bd098d3.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 288975,
+    "output_bytes": 36458
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu3 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu3-1-png-b0e39487a88c.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 311080,
+    "output_bytes": 39274
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu4 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu4-1-png-9baf067ae725.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 336398,
+    "output_bytes": 44628
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu5 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu5-1-png-b17aa8be9129.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 306628,
+    "output_bytes": 34324
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu6 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu6-1-png-f27ba2dd6fd1.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 304296,
+    "output_bytes": 33404
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu7 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu7-1-png-d5cc0a2a8ec7.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 263237,
+    "output_bytes": 23530
+  },
+  {
+    "source": "images/!MMEC images/Gallery/9FITTING/fitu8 1.png",
+    "output": "images/gallery-optimized/9fitting-fitu8-1-png-7f531aeb6c7b.webp",
+    "width": 500,
+    "height": 313,
+    "source_bytes": 303416,
+    "output_bytes": 33140
+  },
+  {
+    "source": "images/gallery-banner.png",
+    "output": "images/gallery-optimized/images-gallery-banner-png-c4e534858250.webp",
+    "width": 1920,
+    "height": 382,
+    "source_bytes": 1372841,
+    "output_bytes": 159842
+  }
+]
