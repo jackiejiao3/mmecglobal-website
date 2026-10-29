@@ -38,7 +38,7 @@ test "$(cd "$STAGE" && pwd -P)" = "$STAGE"
 "$RSYNC" -rcp --chmod=D755,F644 --delete --itemize-changes \
     --exclude='.git' --exclude='.github/' \
     --exclude='/.cpanel.yml' --exclude='/.gitignore' \
-    --exclude='/README.md' --exclude='/deployment/' \
+    --exclude='/README.md' --exclude='/deployment/' --exclude='/quarantine/' \
     --exclude='.htaccess' --exclude='.well-known/' \
     --exclude='.env' --exclude='.env.*' --exclude='.user.ini' \
     --exclude='php.ini' --exclude='.htpasswd' \

@@ -536,7 +536,9 @@ All JavaScript fuctions Start
 
 	function masonryBox() {
         if ( jQuery().isotope ) {      
-            var $container = jQuery('.portfolio-wrap');
+            // Gallery has its own DOM-ready layout without eager image proxies.
+            var $container = jQuery('.portfolio-wrap:not([data-gallery-grid])');
+            if (!$container.length) return;
                 $container.isotope({
                     itemSelector: '.masonry-item',
                     transitionDuration: '1s',

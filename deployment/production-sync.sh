@@ -23,11 +23,11 @@ BACKUP="$REPORTS/overwritten-$STAMP"
 RSYNC=$(command -v rsync)
 COMMIT=$(git -C "$SOURCE" rev-parse HEAD)
 echo "Mode: $MODE; commit: $COMMIT; source: $SOURCE; target: $LIVE" > "$REPORT"
-echo 'No live-only files will be deleted. PHP handlers and server configuration are excluded.' >> "$REPORT"
+echo 'No live-only files will be deleted. Quarantine, PHP handlers and server configuration are excluded.' >> "$REPORT"
 FILTER=(
   --exclude='.git' --exclude='.github/'
   --exclude='/.cpanel.yml' --exclude='/.gitignore'
-  --exclude='/README.md' --exclude='/deployment/'
+  --exclude='/README.md' --exclude='/deployment/' --exclude='/quarantine/'
   --exclude='.htaccess' --exclude='.well-known/'
   --exclude='.user.ini' --exclude='php.ini'
   --exclude='.env' --exclude='.env.*' --exclude='.htpasswd'

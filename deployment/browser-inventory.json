@@ -1,0 +1,906 @@
+{
+  "scope": "Local checkout, Chromium 138, desktop 1440x900, cache fresh per page, no scroll, after networkidle. External requests blocked and recorded. Body sizes uncompressed. Not production or a Lighthouse score.",
+  "pages": [
+    {
+      "page": "bld-gal.html",
+      "resourceBodyBytes": 4257382,
+      "requests": 37,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/js/module.gototop.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.stickfooteronsmall.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.logo.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.headers.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.menus.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.bootstrap.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.hoveranimation.js",
+          "status": 404
+        },
+        {
+          "path": "/js/jquery.js",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap",
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css",
+        "https://cdn.jsdelivr.net/npm/@iconscout/unicons@4.0.1/css/line.css"
+      ]
+    },
+    {
+      "page": "careers.html",
+      "resourceBodyBytes": 1851775,
+      "requests": 40,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "chm-gal.html",
+      "resourceBodyBytes": 3625982,
+      "requests": 39,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/js/module.gototop.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.stickfooteronsmall.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.logo.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.headers.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.menus.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.bootstrap.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.hoveranimation.js",
+          "status": 404
+        },
+        {
+          "path": "/js/jquery.js",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap",
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css",
+        "https://cdn.jsdelivr.net/npm/@iconscout/unicons@4.0.1/css/line.css"
+      ]
+    },
+    {
+      "page": "contact.html",
+      "resourceBodyBytes": 1733544,
+      "requests": 40,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "gallery-grid-2.html",
+      "resourceBodyBytes": 1101336,
+      "requests": 47,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": [
+        "http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900",
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800italic,800,700italic",
+        "https://fonts.googleapis.com/css?family=Crete+Round:400,400i&subset=latin-ext"
+      ]
+    },
+    {
+      "page": "gallery.html",
+      "resourceBodyBytes": 3340341,
+      "requests": 85,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "hrs-gal.html",
+      "resourceBodyBytes": 3916572,
+      "requests": 37,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/js/module.gototop.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.stickfooteronsmall.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.logo.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.headers.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.menus.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.bootstrap.js",
+          "status": 404
+        },
+        {
+          "path": "/js/jquery.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.hoveranimation.js",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap",
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css",
+        "https://cdn.jsdelivr.net/npm/@iconscout/unicons@4.0.1/css/line.css"
+      ]
+    },
+    {
+      "page": "index-3.html",
+      "resourceBodyBytes": 2740831,
+      "requests": 80,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/images/logo-light.png",
+          "status": 404
+        },
+        {
+          "path": "/images/pic-c-1.png",
+          "status": 404
+        }
+      ],
+      "external": [
+        "http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900",
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800italic,800,700italic",
+        "https://fonts.googleapis.com/css?family=Crete+Round:400,400i&subset=latin-ext"
+      ]
+    },
+    {
+      "page": "index-4.html",
+      "resourceBodyBytes": 2245490,
+      "requests": 104,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/images/about-pic4.jpg",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w1.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w2.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w3.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w4.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w5.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w6.png",
+          "status": 404
+        },
+        {
+          "path": "/images/large-blog.jpg",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w1.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w2.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w3.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w4.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w5.png",
+          "status": 404
+        },
+        {
+          "path": "/images/client-logo/w6.png",
+          "status": 404
+        }
+      ],
+      "external": [
+        "http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900",
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800italic,800,700italic",
+        "https://fonts.googleapis.com/css?family=Crete+Round:400,400i&subset=latin-ext"
+      ]
+    },
+    {
+      "page": "index.html",
+      "resourceBodyBytes": 2317772,
+      "requests": 40,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Crete+Round:ital@0;1&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap"
+      ]
+    },
+    {
+      "page": "media.html",
+      "resourceBodyBytes": 1921516,
+      "requests": 42,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://www.youtube.com/embed/3XiJC_uAQCE",
+        "https://www.youtube.com/embed/3XiJC_uAQCE"
+      ]
+    },
+    {
+      "page": "mgbus.html",
+      "resourceBodyBytes": 10030971,
+      "requests": 59,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "mgcert.html",
+      "resourceBodyBytes": 5589962,
+      "requests": 65,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "mgcorp.html",
+      "resourceBodyBytes": 2947395,
+      "requests": 50,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "mgman.html",
+      "resourceBodyBytes": 4047329,
+      "requests": 52,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "mgsus.html",
+      "resourceBodyBytes": 4884979,
+      "requests": 77,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "min-gal.html",
+      "resourceBodyBytes": 3668682,
+      "requests": 33,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/js/module.gototop.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.stickfooteronsmall.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.logo.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.headers.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.menus.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.bootstrap.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.hoveranimation.js",
+          "status": 404
+        },
+        {
+          "path": "/js/jquery.js",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap",
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css",
+        "https://cdn.jsdelivr.net/npm/@iconscout/unicons@4.0.1/css/line.css"
+      ]
+    },
+    {
+      "page": "mmecprod.html",
+      "resourceBodyBytes": 3436339,
+      "requests": 46,
+      "horizontalOverflow": true,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "modhex.html",
+      "resourceBodyBytes": 9222199,
+      "requests": 66,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "modprod.html",
+      "resourceBodyBytes": 5406940,
+      "requests": 64,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "modstrat.html",
+      "resourceBodyBytes": 4211884,
+      "requests": 58,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "n-cncm.html",
+      "resourceBodyBytes": 9461238,
+      "requests": 85,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-famg.html",
+      "resourceBodyBytes": 4446089,
+      "requests": 58,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-formosa.html",
+      "resourceBodyBytes": 9551081,
+      "requests": 81,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-hrsx.html",
+      "resourceBodyBytes": 10161336,
+      "requests": 83,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-hse.html",
+      "resourceBodyBytes": 7947309,
+      "requests": 72,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-ivyc.html",
+      "resourceBodyBytes": 8279553,
+      "requests": 78,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        },
+        {
+          "path": "/fonts/crete-round-v14-latin_latin-ext-italic.woff2",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-kem.html",
+      "resourceBodyBytes": 9769042,
+      "requests": 81,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-macc.html",
+      "resourceBodyBytes": 10088280,
+      "requests": 81,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-mini.html",
+      "resourceBodyBytes": 14368750,
+      "requests": 97,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-nfe.html",
+      "resourceBodyBytes": 7752158,
+      "requests": 73,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-pluto.html",
+      "resourceBodyBytes": 8154750,
+      "requests": 73,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "n-valmet.html",
+      "resourceBodyBytes": 18832059,
+      "requests": 69,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [
+        "Cannot read properties of undefined (reading 'style')"
+      ],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "ong-gal.html",
+      "resourceBodyBytes": 3625982,
+      "requests": 39,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/js/module.gototop.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.stickfooteronsmall.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.logo.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.headers.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.menus.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.bootstrap.js",
+          "status": 404
+        },
+        {
+          "path": "/js/jquery.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.hoveranimation.js",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap",
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css",
+        "https://cdn.jsdelivr.net/npm/@iconscout/unicons@4.0.1/css/line.css"
+      ]
+    },
+    {
+      "page": "portfolio-1.html",
+      "resourceBodyBytes": 1490473,
+      "requests": 52,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        },
+        {
+          "path": "/images/test02.jpg",
+          "status": 404
+        },
+        {
+          "path": "/images/test02.jpg",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "portfolio-3.html",
+      "resourceBodyBytes": 1462085,
+      "requests": 50,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/images/test02.jpg",
+          "status": 404
+        },
+        {
+          "path": "/images/test02.jpg",
+          "status": 404
+        }
+      ],
+      "external": [
+        "http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900",
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800italic,800,700italic",
+        "https://fonts.googleapis.com/css?family=Crete+Round:400,400i&subset=latin-ext"
+      ]
+    },
+    {
+      "page": "portfolio-detail.html",
+      "resourceBodyBytes": 1603684,
+      "requests": 59,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        },
+        {
+          "path": "/images/test02.jpg",
+          "status": 404
+        },
+        {
+          "path": "/images/test02.jpg",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "product-detail.html",
+      "resourceBodyBytes": 1233770,
+      "requests": 62,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "projects.html",
+      "resourceBodyBytes": 1607654,
+      "requests": 47,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/css/gal.css",
+          "status": 404
+        }
+      ],
+      "external": []
+    },
+    {
+      "page": "purposeandvalues.html",
+      "resourceBodyBytes": 1576678,
+      "requests": 39,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": []
+    },
+    {
+      "page": "pwr-gal.html",
+      "resourceBodyBytes": 3625982,
+      "requests": 39,
+      "horizontalOverflow": false,
+      "visibleLoader": false,
+      "errors": [],
+      "failed": [
+        {
+          "path": "/js/module.gototop.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.stickfooteronsmall.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.logo.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.headers.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.menus.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.bootstrap.js",
+          "status": 404
+        },
+        {
+          "path": "/js/jquery.js",
+          "status": 404
+        },
+        {
+          "path": "/js/module.hoveranimation.js",
+          "status": 404
+        }
+      ],
+      "external": [
+        "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap",
+        "https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css",
+        "https://cdn.jsdelivr.net/npm/@iconscout/unicons@4.0.1/css/line.css"
+      ]
+    },
+    {
+      "page": "shortcode-pagination.html",
+      "resourceBodyBytes": 1067408,
+      "requests": 39,
+      "horizontalOverflow": false,
+      "visibleLoader": true,
+      "errors": [],
+      "failed": [],
+      "external": [
+        "http://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,400italic,500,500italic,700,700italic,900italic,900",
+        "https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,800italic,800,700italic",
+        "https://fonts.googleapis.com/css?family=Crete+Round:400,400i&subset=latin-ext"
+      ]
+    }
+  ]
+}
