@@ -2,7 +2,7 @@
 """Rebuild Gallery WebP derivatives (requires Pillow); never overwrite originals.
 
 Run from any directory: python deployment/optimize-gallery.py
-The manifest retains source paths so the command also works after HTML migration.
+The manifest points to quarantined originals so derivatives remain reproducible.
 """
 import hashlib
 import io
@@ -36,7 +36,7 @@ def main():
     parser.feed(html)
     previous = json.loads(MANIFEST.read_text()) if MANIFEST.exists() else []
     sources = parser.sources | {entry['source'] for entry in previous}
-    sources.add('images/gallery-banner.png')
+    sources.add('quarantine/gallery-loading-2026-10-29/replaced-assets/images/gallery-banner.png')
     output = ROOT / 'images/gallery-optimized'
     output.mkdir(exist_ok=True)
     entries = []

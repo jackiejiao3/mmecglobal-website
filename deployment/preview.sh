@@ -27,7 +27,7 @@ REPORT="$REPORT_DIR/compare-$(date -u +%Y%m%dT%H%M%SZ)-$$.txt"
     "$RSYNC" -rcn --delete --itemize-changes --out-format='%i|%n%L' \
         --exclude='.git' --exclude='.github/' \
         --exclude='/.cpanel.yml' --exclude='/.gitignore' \
-        --exclude='/README.md' --exclude='/deployment/' \
+        --exclude='/README.md' --exclude='/deployment/' --exclude='/quarantine/' \
         --exclude='.well-known/' --exclude='.htaccess' \
         --exclude='.user.ini' --exclude='php.ini' \
         --exclude='.env' --exclude='.env.*' --exclude='.htpasswd' \
