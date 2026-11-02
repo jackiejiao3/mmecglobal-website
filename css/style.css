@@ -7130,6 +7130,17 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	display: flex;
 	align-items: center;
 	gap: 12px;
+	flex-wrap: wrap;
+}
+.top-bar .group-affiliation-text {
+	font-size: 14px;
+}
+.header-style-3 .group-affiliation-topbar .container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 8px;
 }
 .group-site-topbar .social-bx {
 	float: none;
