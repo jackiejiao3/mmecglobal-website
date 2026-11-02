@@ -7705,6 +7705,31 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	background-color: #dbb658;
 	 color: #FFF;
 }
+.header-nav .nav > li > a.group-site-link {
+	padding-top: 29px;
+	padding-bottom: 29px;
+}
+.header-nav .nav > li > a.group-site-link span {
+	display: inline-block;
+	padding: 6px 11px;
+	border-radius: 3px;
+	background-color: #dcecf5;
+	color: #04466c;
+	line-height: 1.4;
+}
+.header-nav .nav > li > a.group-site-link:hover,
+.header-nav .nav > li > a.group-site-link:focus {
+	background-color: transparent;
+}
+.header-nav .nav > li > a.group-site-link:hover span,
+.header-nav .nav > li > a.group-site-link:focus-visible span {
+	background-color: #c8e4f2;
+}
+@media only screen and (max-width: 991px) {
+	.header-nav .nav > li > a.group-site-link {
+		padding: 12px 15px;
+	}
+}
 .header-nav .nav > li > a:active,
 .header-nav .nav > li > a:focus {
 	background-color: transparent;
