@@ -7126,16 +7126,16 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	text-align:center;
 	border-radius:1px;
 }
-.wt-topbar-right {
+.group-site-topbar {
 	display: flex;
 	align-items: center;
 	gap: 12px;
 }
-.wt-topbar-right .social-bx {
+.group-site-topbar .social-bx {
 	float: none;
 	margin: 0;
 }
-.wt-topbar-right .group-site-button {
+.group-site-topbar .group-site-button {
 	display: inline-block;
 	padding: 5px 11px;
 	border-radius: 3px;
@@ -7145,8 +7145,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	font-weight: 600;
 	white-space: nowrap;
 }
-.wt-topbar-right .group-site-button:hover,
-.wt-topbar-right .group-site-button:focus-visible {
+.group-site-topbar .group-site-button:hover,
+.group-site-topbar .group-site-button:focus-visible {
 	background-color: #c8e4f2;
 	color: #04466c;
 }
@@ -8488,7 +8488,7 @@ header .logo{
 	.header-style-3 .top-bar .container{display: block;}
 	.header-style-3 .top-bar .container .e-p-bx{display: block;}
 	.header-style-3 .top-bar .container .wt-topbar-right{display: block;}
-	.header-style-3 .top-bar .container .wt-topbar-right .social-bx{float: none; margin-left: 0px;}
+	.header-style-3 .top-bar .container .group-site-topbar .social-bx{float: none; margin-left: 0px;}
 }
 /*-------------------------------------
 	9. header style 4 (header white overlay)
@@ -8550,7 +8550,7 @@ header .logo{
 	.header-style-5 .wt-topbar-right {
 		display: block;
 	}
-	.header-style-5 .wt-topbar-right .social-bx{
+	.header-style-5 .group-site-topbar .social-bx{
 		float: none;
 		margin-left: 0px;
 	}
@@ -9141,7 +9141,7 @@ header .logo{
 	.header-style-1 .wt-topbar-right {
 		display: block;
 	}
-	.header-style-1 .wt-topbar-right .social-bx{
+	.header-style-1 .group-site-topbar .social-bx{
 		float: none;
 		margin: 10px 0px 0px 0px;
 	}
