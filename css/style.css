@@ -7158,6 +7158,14 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .e-p-bx li a {
 	color: #FFF;
 }
+.e-p-bx li a.modern-group-link {
+	color: inherit;
+	text-decoration: none;
+}
+.e-p-bx li a.modern-group-link:hover,
+.e-p-bx li a.modern-group-link:focus-visible {
+	text-decoration: underline;
+}
 .e-p-bx li i {
 	margin-right:5px;
 	vertical-align: middle;
