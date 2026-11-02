@@ -7126,27 +7126,25 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	text-align:center;
 	border-radius:1px;
 }
-.group-site-topbar {
+.group-affiliation-topbar .container {
+	align-items: center;
+}
+.group-affiliation-topbar .e-p-bx {
+	margin: 0;
+}
+.group-affiliation-topbar .group-affiliation-label {
+	font-size: 13px;
+}
+.group-affiliation-topbar .group-site-topbar {
 	display: flex;
 	align-items: center;
 	gap: 12px;
-	flex-wrap: wrap;
 }
-.top-bar .group-affiliation-text {
-	font-size: 14px;
-}
-.header-style-3 .group-affiliation-topbar .container {
-	display: flex;
-	justify-content: space-between;
-	align-items: center;
-	flex-wrap: wrap;
-	gap: 8px;
-}
-.group-site-topbar .social-bx {
+.group-affiliation-topbar .group-site-topbar .social-bx {
 	float: none;
 	margin: 0;
 }
-.group-site-topbar .group-site-button {
+.group-affiliation-topbar .group-site-button {
 	display: inline-block;
 	padding: 5px 11px;
 	border-radius: 3px;
@@ -7156,8 +7154,8 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	font-weight: 600;
 	white-space: nowrap;
 }
-.group-site-topbar .group-site-button:hover,
-.group-site-topbar .group-site-button:focus-visible {
+.group-affiliation-topbar .group-site-button:hover,
+.group-affiliation-topbar .group-site-button:focus-visible {
 	background-color: #c8e4f2;
 	color: #04466c;
 }
@@ -8499,7 +8497,7 @@ header .logo{
 	.header-style-3 .top-bar .container{display: block;}
 	.header-style-3 .top-bar .container .e-p-bx{display: block;}
 	.header-style-3 .top-bar .container .wt-topbar-right{display: block;}
-	.header-style-3 .top-bar .container .group-site-topbar .social-bx{float: none; margin-left: 0px;}
+	.header-style-3 .top-bar .container .wt-topbar-right .social-bx{float: none; margin-left: 0px;}
 }
 /*-------------------------------------
 	9. header style 4 (header white overlay)
@@ -8561,7 +8559,7 @@ header .logo{
 	.header-style-5 .wt-topbar-right {
 		display: block;
 	}
-	.header-style-5 .group-site-topbar .social-bx{
+	.header-style-5 .wt-topbar-right .social-bx{
 		float: none;
 		margin-left: 0px;
 	}
@@ -9152,7 +9150,7 @@ header .logo{
 	.header-style-1 .wt-topbar-right {
 		display: block;
 	}
-	.header-style-1 .group-site-topbar .social-bx{
+	.header-style-1 .wt-topbar-right .social-bx{
 		float: none;
 		margin: 10px 0px 0px 0px;
 	}

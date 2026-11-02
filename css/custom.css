@@ -6,24 +6,3 @@
 -----------------------------------------------------------------*/
 
 
-
-/* Group affiliation on the older gallery header. */
-.group-affiliation-logo {
-	color: #fff;
-	font-size: 14px;
-	white-space: nowrap;
-	margin: 0;
-}
-.primary-menu .menu-link.group-site-button div {
-	display: inline-block;
-	padding: 6px 11px;
-	border-radius: 3px;
-	background: #dcecf5;
-	color: #04466c;
-	font-size: 12px;
-	line-height: 1.4;
-}
-.primary-menu .menu-link.group-site-button:hover div,
-.primary-menu .menu-link.group-site-button:focus-visible div {
-	background: #c8e4f2;
-}
