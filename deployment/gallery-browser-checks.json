@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "mode": "before",
+      "width": 1440,
+      "imageRequests": 103,
+      "resourceBodyBytes": 32461259,
+      "horizontalOverflow": false,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "mode": "before",
+      "width": 390,
+      "imageRequests": 103,
+      "resourceBodyBytes": 32461259,
+      "horizontalOverflow": false,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "mode": "after",
+      "width": 1440,
+      "imageRequests": 57,
+      "resourceBodyBytes": 3340341,
+      "horizontalOverflow": false,
+      "errors": [],
+      "failed": []
+    },
+    {
+      "mode": "after",
+      "width": 390,
+      "imageRequests": 12,
+      "resourceBodyBytes": 1756257,
+      "horizontalOverflow": false,
+      "errors": [],
+      "failed": []
+    }
+  ],
+  "checks": [
+    "desktop/mobile filtering, flip and original-image lightbox",
+    "scroll loads last thumbnail",
+    "no full-size image prefetch before opening lightbox",
+    "layout/filtering work while first image is stalled",
+    "content visible without JavaScript"
+  ]
+}
