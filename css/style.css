@@ -7129,6 +7129,9 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 .group-affiliation-topbar .container {
 	align-items: center;
 }
+.header-style-3 .group-affiliation-topbar .container {
+	justify-content: space-between;
+}
 .group-affiliation-topbar .e-p-bx {
 	margin: 0;
 }
@@ -7139,6 +7142,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	display: flex;
 	align-items: center;
 	gap: 12px;
+	flex-wrap: wrap;
 }
 .group-affiliation-topbar .group-site-topbar .social-bx {
 	float: none;
